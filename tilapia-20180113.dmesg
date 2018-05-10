@@ -1,0 +1,940 @@
+ transport endpoint
+[   11.002033] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ext3/ext3_load_inode/enable:  Operation not supported on transport endpoint
+[   11.002272] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ext3/enable:  Operation not supported on transport endpoint
+[   11.002511] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ext3/filter:  Operation not supported on transport endpoint
+[   11.002837] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback:  Operation not supported on transport endpoint
+[   11.003347] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nothread:  Operation not supported on transport endpoint
+[   11.003663] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nothread/format:  Operation not supported on transport endpoint
+[   11.003909] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nothread/filter:  Operation not supported on transport endpoint
+[   11.004209] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nothread/id:  Operation not supported on transport endpoint
+[   11.004452] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nothread/enable:  Operation not supported on transport endpoint
+[   11.004724] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue:  Operation not supported on transport endpoint
+[   11.005094] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue/format:  Operation not supported on transport endpoint
+[   11.005341] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue/filter:  Operation not supported on transport endpoint
+[   11.005586] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue/id:  Operation not supported on transport endpoint
+[   11.005888] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue/enable:  Operation not supported on transport endpoint
+[   11.006159] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_exec:  Operation not supported on transport endpoint
+[   11.006471] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_exec/format:  Operation not supported on transport endpoint
+[   11.006772] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_exec/filter:  Operation not supported on transport endpoint
+[   11.007014] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_exec/id:  Operation not supported on transport endpoint
+[   11.007257] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_exec/enable:  Operation not supported on transport endpoint
+[   11.007583] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_start:  Operation not supported on transport endpoint
+[   11.007891] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_start/format:  Operation not supported on transport endpoint
+[   11.008135] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_start/filter:  Operation not supported on transport endpoint
+[   11.008378] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_start/id:  Operation not supported on transport endpoint
+[   11.008676] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_start/enable:  Operation not supported on transport endpoint
+[   11.008946] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_written:  Operation not supported on transport endpoint
+[   11.009256] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_written/format:  Operation not supported on transport endpoint
+[   11.009557] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_written/filter:  Operation not supported on transport endpoint
+[   11.009800] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_written/id:  Operation not supported on transport endpoint
+[   11.010040] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_written/enable:  Operation not supported on transport endpoint
+[   11.010372] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait:  Operation not supported on transport endpoint
+[   11.010678] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait/format:  Operation not supported on transport endpoint
+[   11.010960] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait/filter:  Operation not supported on transport endpoint
+[   11.011270] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait/id:  Operation not supported on transport endpoint
+[   11.011512] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait/enable:  Operation not supported on transport endpoint
+[   11.011787] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_pages_written:  Operation not supported on transport endpoint
+[   11.012160] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_pages_written/format:  Operation not supported on transport endpoint
+[   11.012407] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_pages_written/filter:  Operation not supported on transport endpoint
+[   11.012651] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_pages_written/id:  Operation not supported on transport endpoint
+[   11.012951] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_pages_written/enable:  Operation not supported on transport endpoint
+[   11.013222] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nowork:  Operation not supported on transport endpoint
+[   11.013537] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nowork/format:  Operation not supported on transport endpoint
+[   11.013841] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nowork/filter:  Operation not supported on transport endpoint
+[   11.014083] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nowork/id:  Operation not supported on transport endpoint
+[   11.014323] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_nowork/enable:  Operation not supported on transport endpoint
+[   11.014654] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_background:  Operation not supported on transport endpoint
+[   11.014965] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_background/format:  Operation not supported on transport endpoint
+[   11.015210] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_background/filter:  Operation not supported on transport endpoint
+[   11.015509] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_background/id:  Operation not supported on transport endpoint
+[   11.015751] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_background/enable:  Operation not supported on transport endpoint
+[   11.016080] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_thread:  Operation not supported on transport endpoint
+[   11.016391] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_thread/format:  Operation not supported on transport endpoint
+[   11.016636] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_thread/filter:  Operation not supported on transport endpoint
+[   11.016934] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_thread/id:  Operation not supported on transport endpoint
+[   11.017178] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_thread/enable:  Operation not supported on transport endpoint
+[   11.017449] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_forker_thread:  Operation not supported on transport endpoint
+[   11.017821] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_forker_thread/format:  Operation not supported on transport endpoint
+[   11.018066] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_forker_thread/filter:  Operation not supported on transport endpoint
+[   11.018372] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_forker_thread/id:  Operation not supported on transport endpoint
+[   11.018618] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wake_forker_thread/enable:  Operation not supported on transport endpoint
+[   11.018892] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_register:  Operation not supported on transport endpoint
+[   11.019264] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_register/format:  Operation not supported on transport endpoint
+[   11.019510] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_register/filter:  Operation not supported on transport endpoint
+[   11.019811] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_register/id:  Operation not supported on transport endpoint
+[   11.020053] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_register/enable:  Operation not supported on transport endpoint
+[   11.020323] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_unregister:  Operation not supported on transport endpoint
+[   11.020691] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_unregister/format:  Operation not supported on transport endpoint
+[   11.020982] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_unregister/filter:  Operation not supported on transport endpoint
+[   11.021234] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_unregister/id:  Operation not supported on transport endpoint
+[   11.021538] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_bdi_unregister/enable:  Operation not supported on transport endpoint
+[   11.021813] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_start:  Operation not supported on transport endpoint
+[   11.022184] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_start/format:  Operation not supported on transport endpoint
+[   11.022430] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_start/filter:  Operation not supported on transport endpoint
+[   11.022674] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_start/id:  Operation not supported on transport endpoint
+[   11.022975] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_start/enable:  Operation not supported on transport endpoint
+[   11.023246] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_stop:  Operation not supported on transport endpoint
+[   11.023559] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_stop/format:  Operation not supported on transport endpoint
+[   11.023865] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_stop/filter:  Operation not supported on transport endpoint
+[   11.024106] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_stop/id:  Operation not supported on transport endpoint
+[   11.024349] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_thread_stop/enable:  Operation not supported on transport endpoint
+[   11.024680] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_start:  Operation not supported on transport endpoint
+[   11.024990] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_start/format:  Operation not supported on transport endpoint
+[   11.025290] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_start/filter:  Operation not supported on transport endpoint
+[   11.025532] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_start/id:  Operation not supported on transport endpoint
+[   11.025774] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_start/enable:  Operation not supported on transport endpoint
+[   11.026102] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_wait:  Operation not supported on transport endpoint
+[   11.026411] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_wait/format:  Operation not supported on transport endpoint
+[   11.026655] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_wait/filter:  Operation not supported on transport endpoint
+[   11.026956] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_wait/id:  Operation not supported on transport endpoint
+[   11.027193] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_wait/enable:  Operation not supported on transport endpoint
+[   11.027464] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_written:  Operation not supported on transport endpoint
+[   11.027833] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_written/format:  Operation not supported on transport endpoint
+[   11.028076] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_written/filter:  Operation not supported on transport endpoint
+[   11.028319] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_written/id:  Operation not supported on transport endpoint
+[   11.028617] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/balance_dirty_written/enable:  Operation not supported on transport endpoint
+[   11.028886] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/wbc_writepage:  Operation not supported on transport endpoint
+[   11.029196] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/wbc_writepage/format:  Operation not supported on transport endpoint
+[   11.029498] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/wbc_writepage/filter:  Operation not supported on transport endpoint
+[   11.029739] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/wbc_writepage/id:  Operation not supported on transport endpoint
+[   11.029978] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/wbc_writepage/enable:  Operation not supported on transport endpoint
+[   11.030250] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue_io:  Operation not supported on transport endpoint
+[   11.030622] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue_io/format:  Operation not supported on transport endpoint
+[   11.030865] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue_io/filter:  Operation not supported on transport endpoint
+[   11.031162] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue_io/id:  Operation not supported on transport endpoint
+[   11.031468] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_queue_io/enable:  Operation not supported on transport endpoint
+[   11.031746] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/global_dirty_state:  Operation not supported on transport endpoint
+[   11.032063] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/global_dirty_state/format:  Operation not supported on transport endpoint
+[   11.032371] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/global_dirty_state/filter:  Operation not supported on transport endpoint
+[   11.032617] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/global_dirty_state/id:  Operation not supported on transport endpoint
+[   11.032861] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/global_dirty_state/enable:  Operation not supported on transport endpoint
+[   11.033194] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_congestion_wait:  Operation not supported on transport endpoint
+[   11.033504] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_congestion_wait/format:  Operation not supported on transport endpoint
+[   11.033807] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_congestion_wait/filter:  Operation not supported on transport endpoint
+[   11.034051] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_congestion_wait/id:  Operation not supported on transport endpoint
+[   11.034293] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_congestion_wait/enable:  Operation not supported on transport endpoint
+[   11.034625] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait_iff_congested:  Operation not supported on transport endpoint
+[   11.034939] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait_iff_congested/format:  Operation not supported on transport endpoint
+[   11.035242] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait_iff_congested/filter:  Operation not supported on transport endpoint
+[   11.035486] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait_iff_congested/id:  Operation not supported on transport endpoint
+[   11.035729] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_wait_iff_congested/enable:  Operation not supported on transport endpoint
+[   11.036061] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode_requeue:  Operation not supported on transport endpoint
+[   11.036374] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode_requeue/format:  Operation not supported on transport endpoint
+[   11.036677] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode_requeue/filter:  Operation not supported on transport endpoint
+[   11.036921] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode_requeue/id:  Operation not supported on transport endpoint
+[   11.037222] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode_requeue/enable:  Operation not supported on transport endpoint
+[   11.037495] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode:  Operation not supported on transport endpoint
+[   11.037807] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode/format:  Operation not supported on transport endpoint
+[   11.038108] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode/filter:  Operation not supported on transport endpoint
+[   11.038350] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode/id:  Operation not supported on transport endpoint
+[   11.038591] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/writeback_single_inode/enable:  Operation not supported on transport endpoint
+[   11.038888] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/enable:  Operation not supported on transport endpoint
+[   11.039124] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/writeback/filter:  Operation not supported on transport endpoint
+[   11.039386] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem:  Operation not supported on transport endpoint
+[   11.039797] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc:  Operation not supported on transport endpoint
+[   11.040104] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc/format:  Operation not supported on transport endpoint
+[   11.040345] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc/filter:  Operation not supported on transport endpoint
+[   11.040585] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc/id:  Operation not supported on transport endpoint
+[   11.040823] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc/enable:  Operation not supported on transport endpoint
+[   11.041140] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc:  Operation not supported on transport endpoint
+[   11.041511] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc/format:  Operation not supported on transport endpoint
+[   11.041756] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc/filter:  Operation not supported on transport endpoint
+[   11.042001] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc/id:  Operation not supported on transport endpoint
+[   11.042246] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc/enable:  Operation not supported on transport endpoint
+[   11.042576] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc_node:  Operation not supported on transport endpoint
+[   11.042887] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc_node/format:  Operation not supported on transport endpoint
+[   11.043131] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc_node/filter:  Operation not supported on transport endpoint
+[   11.043429] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc_node/id:  Operation not supported on transport endpoint
+[   11.043672] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmalloc_node/enable:  Operation not supported on transport endpoint
+[   11.043940] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc_node:  Operation not supported on transport endpoint
+[   11.044252] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc_node/format:  Operation not supported on transport endpoint
+[   11.044572] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc_node/filter:  Operation not supported on transport endpoint
+[   11.044815] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc_node/id:  Operation not supported on transport endpoint
+[   11.045056] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_alloc_node/enable:  Operation not supported on transport endpoint
+[   11.045384] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kfree:  Operation not supported on transport endpoint
+[   11.045694] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kfree/format:  Operation not supported on transport endpoint
+[   11.045937] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kfree/filter:  Operation not supported on transport endpoint
+[   11.046176] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kfree/id:  Operation not supported on transport endpoint
+[   11.046414] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kfree/enable:  Operation not supported on transport endpoint
+[   11.046746] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_free:  Operation not supported on transport endpoint
+[   11.047056] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_free/format:  Operation not supported on transport endpoint
+[   11.047299] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_free/filter:  Operation not supported on transport endpoint
+[   11.047541] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_free/id:  Operation not supported on transport endpoint
+[   11.047850] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/kmem_cache_free/enable:  Operation not supported on transport endpoint
+[   11.048122] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_free_direct:  Operation not supported on transport endpoint
+[   11.048431] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_free_direct/format:  Operation not supported on transport endpoint
+[   11.048732] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_free_direct/filter:  Operation not supported on transport endpoint
+[   11.048975] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_free_direct/id:  Operation not supported on transport endpoint
+[   11.049215] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_free_direct/enable:  Operation not supported on transport endpoint
+[   11.049487] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_pagevec_free:  Operation not supported on transport endpoint
+[   11.049857] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_pagevec_free/format:  Operation not supported on transport endpoint
+[   11.050100] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_pagevec_free/filter:  Operation not supported on transport endpoint
+[   11.050338] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_pagevec_free/id:  Operation not supported on transport endpoint
+[   11.050637] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_pagevec_free/enable:  Operation not supported on transport endpoint
+[   11.050908] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc:  Operation not supported on transport endpoint
+[   11.051268] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc/format:  Operation not supported on transport endpoint
+[   11.051514] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc/filter:  Operation not supported on transport endpoint
+[   11.051816] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc/id:  Operation not supported on transport endpoint
+[   11.052057] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc/enable:  Operation not supported on transport endpoint
+[   11.052330] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_zone_locked:  Operation not supported on transport endpoint
+[   11.052644] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_zone_locked/format:  Operation not supported on transport endpoint
+[   11.052946] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_zone_locked/filter:  Operation not supported on transport endpoint
+[   11.053189] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_zone_locked/id:  Operation not supported on transport endpoint
+[   11.053432] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_zone_locked/enable:  Operation not supported on transport endpoint
+[   11.053764] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_pcpu_drain:  Operation not supported on transport endpoint
+[   11.054075] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_pcpu_drain/format:  Operation not supported on transport endpoint
+[   11.054319] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_pcpu_drain/filter:  Operation not supported on transport endpoint
+[   11.054619] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_pcpu_drain/id:  Operation not supported on transport endpoint
+[   11.054861] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_pcpu_drain/enable:  Operation not supported on transport endpoint
+[   11.055131] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_extfrag:  Operation not supported on transport endpoint
+[   11.055501] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_extfrag/format:  Operation not supported on transport endpoint
+[   11.055747] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_extfrag/filter:  Operation not supported on transport endpoint
+[   11.055988] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_extfrag/id:  Operation not supported on transport endpoint
+[   11.056289] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/mm_page_alloc_extfrag/enable:  Operation not supported on transport endpoint
+[   11.056527] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/enable:  Operation not supported on transport endpoint
+[   11.056763] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/kmem/filter:  Operation not supported on transport endpoint
+[   11.057028] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan:  Operation not supported on transport endpoint
+[   11.057497] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_sleep:  Operation not supported on transport endpoint
+[   11.057867] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_sleep/format:  Operation not supported on transport endpoint
+[   11.058113] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_sleep/filter:  Operation not supported on transport endpoint
+[   11.058354] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_sleep/id:  Operation not supported on transport endpoint
+[   11.058655] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_sleep/enable:  Operation not supported on transport endpoint
+[   11.058926] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_wake:  Operation not supported on transport endpoint
+[   11.059236] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_wake/format:  Operation not supported on transport endpoint
+[   11.059540] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_wake/filter:  Operation not supported on transport endpoint
+[   11.059784] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_wake/id:  Operation not supported on transport endpoint
+[   11.060027] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_kswapd_wake/enable:  Operation not supported on transport endpoint
+[   11.060359] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_wakeup_kswapd:  Operation not supported on transport endpoint
+[   11.060671] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_wakeup_kswapd/format:  Operation not supported on transport endpoint
+[   11.060917] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_wakeup_kswapd/filter:  Operation not supported on transport endpoint
+[   11.061268] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_wakeup_kswapd/id:  Operation not supported on transport endpoint
+[   11.061514] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_wakeup_kswapd/enable:  Operation not supported on transport endpoint
+[   11.061789] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_begin:  Operation not supported on transport endpoint
+[   11.062106] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_begin/format:  Operation not supported on transport endpoint
+[   11.062353] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_begin/filter:  Operation not supported on transport endpoint
+[   11.062659] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_begin/id:  Operation not supported on transport endpoint
+[   11.062906] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_begin/enable:  Operation not supported on transport endpoint
+[   11.063238] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_begin:  Operation not supported on transport endpoint
+[   11.063553] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_begin/format:  Operation not supported on transport endpoint
+[   11.063800] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_begin/filter:  Operation not supported on transport endpoint
+[   11.064101] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_begin/id:  Operation not supported on transport endpoint
+[   11.064345] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_begin/enable:  Operation not supported on transport endpoint
+[   11.064682] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_begin:  Operation not supported on transport endpoint
+[   11.064995] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_begin/format:  Operation not supported on transport endpoint
+[   11.065244] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_begin/filter:  Operation not supported on transport endpoint
+[   11.065546] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_begin/id:  Operation not supported on transport endpoint
+[   11.065790] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_begin/enable:  Operation not supported on transport endpoint
+[   11.066121] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_end:  Operation not supported on transport endpoint
+[   11.066436] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_end/format:  Operation not supported on transport endpoint
+[   11.066739] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_end/filter:  Operation not supported on transport endpoint
+[   11.066983] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_end/id:  Operation not supported on transport endpoint
+[   11.067225] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_direct_reclaim_end/enable:  Operation not supported on transport endpoint
+[   11.067554] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_end:  Operation not supported on transport endpoint
+[   11.067862] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_end/format:  Operation not supported on transport endpoint
+[   11.068164] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_end/filter:  Operation not supported on transport endpoint
+[   11.068406] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_end/id:  Operation not supported on transport endpoint
+[   11.068647] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_reclaim_end/enable:  Operation not supported on transport endpoint
+[   11.068980] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_end:  Operation not supported on transport endpoint
+[   11.069291] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_end/format:  Operation not supported on transport endpoint
+[   11.069594] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_end/filter:  Operation not supported on transport endpoint
+[   11.069838] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_end/id:  Operation not supported on transport endpoint
+[   11.070140] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_softlimit_reclaim_end/enable:  Operation not supported on transport endpoint
+[   11.070411] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_start:  Operation not supported on transport endpoint
+[   11.070720] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_start/format:  Operation not supported on transport endpoint
+[   11.071082] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_start/filter:  Operation not supported on transport endpoint
+[   11.071331] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_start/id:  Operation not supported on transport endpoint
+[   11.071573] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_start/enable:  Operation not supported on transport endpoint
+[   11.071905] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_end:  Operation not supported on transport endpoint
+[   11.072217] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_end/format:  Operation not supported on transport endpoint
+[   11.072459] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_end/filter:  Operation not supported on transport endpoint
+[   11.072759] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_end/id:  Operation not supported on transport endpoint
+[   11.073004] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_shrink_slab_end/enable:  Operation not supported on transport endpoint
+[   11.073279] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_isolate:  Operation not supported on transport endpoint
+[   11.073652] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_isolate/format:  Operation not supported on transport endpoint
+[   11.073900] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_isolate/filter:  Operation not supported on transport endpoint
+[   11.074143] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_isolate/id:  Operation not supported on transport endpoint
+[   11.074442] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_isolate/enable:  Operation not supported on transport endpoint
+[   11.074716] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_isolate:  Operation not supported on transport endpoint
+[   11.075031] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_isolate/format:  Operation not supported on transport endpoint
+[   11.075334] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_isolate/filter:  Operation not supported on transport endpoint
+[   11.075577] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_isolate/id:  Operation not supported on transport endpoint
+[   11.075819] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_memcg_isolate/enable:  Operation not supported on transport endpoint
+[   11.076153] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_writepage:  Operation not supported on transport endpoint
+[   11.076460] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_writepage/format:  Operation not supported on transport endpoint
+[   11.076704] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_writepage/filter:  Operation not supported on transport endpoint
+[   11.077003] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_writepage/id:  Operation not supported on transport endpoint
+[   11.077244] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_writepage/enable:  Operation not supported on transport endpoint
+[   11.077515] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_shrink_inactive:  Operation not supported on transport endpoint
+[   11.077885] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_shrink_inactive/format:  Operation not supported on transport endpoint
+[   11.078130] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_shrink_inactive/filter:  Operation not supported on transport endpoint
+[   11.078375] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_shrink_inactive/id:  Operation not supported on transport endpoint
+[   11.078678] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/mm_vmscan_lru_shrink_inactive/enable:  Operation not supported on transport endpoint
+[   11.078946] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/replace_swap_token:  Operation not supported on transport endpoint
+[   11.079255] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/replace_swap_token/format:  Operation not supported on transport endpoint
+[   11.079556] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/replace_swap_token/filter:  Operation not supported on transport endpoint
+[   11.079797] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/replace_swap_token/id:  Operation not supported on transport endpoint
+[   11.080037] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/replace_swap_token/enable:  Operation not supported on transport endpoint
+[   11.080368] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/put_swap_token:  Operation not supported on transport endpoint
+[   11.080678] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/put_swap_token/format:  Operation not supported on transport endpoint
+[   11.080962] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/put_swap_token/filter:  Operation not supported on transport endpoint
+[   11.081273] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/put_swap_token/id:  Operation not supported on transport endpoint
+[   11.081518] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/put_swap_token/enable:  Operation not supported on transport endpoint
+[   11.081790] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/disable_swap_token:  Operation not supported on transport endpoint
+[   11.082104] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/disable_swap_token/format:  Operation not supported on transport endpoint
+[   11.082410] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/disable_swap_token/filter:  Operation not supported on transport endpoint
+[   11.082652] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/disable_swap_token/id:  Operation not supported on transport endpoint
+[   11.082894] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/disable_swap_token/enable:  Operation not supported on transport endpoint
+[   11.083225] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/update_swap_token_priority:  Operation not supported on transport endpoint
+[   11.083539] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/update_swap_token_priority/format:  Operation not supported on transport endpoint
+[   11.083788] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/update_swap_token_priority/filter:  Operation not supported on transport endpoint
+[   11.084089] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/update_swap_token_priority/id:  Operation not supported on transport endpoint
+[   11.084330] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/update_swap_token_priority/enable:  Operation not supported on transport endpoint
+[   11.084628] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/enable:  Operation not supported on transport endpoint
+[   11.084863] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/vmscan/filter:  Operation not supported on transport endpoint
+[   11.085126] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power:  Operation not supported on transport endpoint
+[   11.085520] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_idle:  Operation not supported on transport endpoint
+[   11.085827] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_idle/format:  Operation not supported on transport endpoint
+[   11.086070] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_idle/filter:  Operation not supported on transport endpoint
+[   11.086310] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_idle/id:  Operation not supported on transport endpoint
+[   11.086553] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_idle/enable:  Operation not supported on transport endpoint
+[   11.086826] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_hotplug:  Operation not supported on transport endpoint
+[   11.087138] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_hotplug/format:  Operation not supported on transport endpoint
+[   11.087442] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_hotplug/filter:  Operation not supported on transport endpoint
+[   11.087682] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_hotplug/id:  Operation not supported on transport endpoint
+[   11.087923] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_hotplug/enable:  Operation not supported on transport endpoint
+[   11.088193] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_scale:  Operation not supported on transport endpoint
+[   11.088560] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_scale/format:  Operation not supported on transport endpoint
+[   11.088800] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_scale/filter:  Operation not supported on transport endpoint
+[   11.089057] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_scale/id:  Operation not supported on transport endpoint
+[   11.089298] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_scale/enable:  Operation not supported on transport endpoint
+[   11.089625] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_cluster:  Operation not supported on transport endpoint
+[   11.089933] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_cluster/format:  Operation not supported on transport endpoint
+[   11.090176] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_cluster/filter:  Operation not supported on transport endpoint
+[   11.090415] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_cluster/id:  Operation not supported on transport endpoint
+[   11.090713] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_cluster/enable:  Operation not supported on transport endpoint
+[   11.091032] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_frequency:  Operation not supported on transport endpoint
+[   11.091346] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_frequency/format:  Operation not supported on transport endpoint
+[   11.091589] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_frequency/filter:  Operation not supported on transport endpoint
+[   11.091891] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_frequency/id:  Operation not supported on transport endpoint
+[   11.092132] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/cpu_frequency/enable:  Operation not supported on transport endpoint
+[   11.092401] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/machine_suspend:  Operation not supported on transport endpoint
+[   11.092712] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/machine_suspend/format:  Operation not supported on transport endpoint
+[   11.093015] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/machine_suspend/filter:  Operation not supported on transport endpoint
+[   11.093257] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/machine_suspend/id:  Operation not supported on transport endpoint
+[   11.093498] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/machine_suspend/enable:  Operation not supported on transport endpoint
+[   11.093821] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_enable:  Operation not supported on transport endpoint
+[   11.094130] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_enable/format:  Operation not supported on transport endpoint
+[   11.094376] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_enable/filter:  Operation not supported on transport endpoint
+[   11.094616] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_enable/id:  Operation not supported on transport endpoint
+[   11.094916] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_enable/enable:  Operation not supported on transport endpoint
+[   11.095185] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_disable:  Operation not supported on transport endpoint
+[   11.095495] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_disable/format:  Operation not supported on transport endpoint
+[   11.095737] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_disable/filter:  Operation not supported on transport endpoint
+[   11.096033] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_disable/id:  Operation not supported on transport endpoint
+[   11.096275] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_disable/enable:  Operation not supported on transport endpoint
+[   11.096544] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_set_rate:  Operation not supported on transport endpoint
+[   11.096856] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_set_rate/format:  Operation not supported on transport endpoint
+[   11.097155] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_set_rate/filter:  Operation not supported on transport endpoint
+[   11.097394] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_set_rate/id:  Operation not supported on transport endpoint
+[   11.097633] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/clock_set_rate/enable:  Operation not supported on transport endpoint
+[   11.097959] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/power_domain_target:  Operation not supported on transport endpoint
+[   11.098270] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/power_domain_target/format:  Operation not supported on transport endpoint
+[   11.098514] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/power_domain_target/filter:  Operation not supported on transport endpoint
+[   11.098755] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/power_domain_target/id:  Operation not supported on transport endpoint
+[   11.099053] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/power_domain_target/enable:  Operation not supported on transport endpoint
+[   11.099290] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/enable:  Operation not supported on transport endpoint
+[   11.099526] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/power/filter:  Operation not supported on transport endpoint
+[   11.099791] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace:  Operation not supported on transport endpoint
+[   11.100256] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/function:  Operation not supported on transport endpoint
+[   11.100554] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/function/format:  Operation not supported on transport endpoint
+[   11.100799] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/function/filter:  Operation not supported on transport endpoint
+[   11.101124] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/funcgraph_entry:  Operation not supported on transport endpoint
+[   11.101427] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/funcgraph_entry/format:  Operation not supported on transport endpoint
+[   11.101734] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/funcgraph_entry/filter:  Operation not supported on transport endpoint
+[   11.102007] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/funcgraph_exit:  Operation not supported on transport endpoint
+[   11.102307] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/funcgraph_exit/format:  Operation not supported on transport endpoint
+[   11.102608] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/funcgraph_exit/filter:  Operation not supported on transport endpoint
+[   11.102878] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/context_switch:  Operation not supported on transport endpoint
+[   11.103174] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/context_switch/format:  Operation not supported on transport endpoint
+[   11.103417] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/context_switch/filter:  Operation not supported on transport endpoint
+[   11.103747] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/wakeup:  Operation not supported on transport endpoint
+[   11.104041] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/wakeup/format:  Operation not supported on transport endpoint
+[   11.104284] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/wakeup/filter:  Operation not supported on transport endpoint
+[   11.104552] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/kernel_stack:  Operation not supported on transport endpoint
+[   11.104901] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/kernel_stack/format:  Operation not supported on transport endpoint
+[   11.105142] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/kernel_stack/filter:  Operation not supported on transport endpoint
+[   11.105413] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/user_stack:  Operation not supported on transport endpoint
+[   11.105708] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/user_stack/format:  Operation not supported on transport endpoint
+[   11.106006] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/user_stack/filter:  Operation not supported on transport endpoint
+[   11.106278] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/bprint:  Operation not supported on transport endpoint
+[   11.106571] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/bprint/format:  Operation not supported on transport endpoint
+[   11.106813] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/bprint/filter:  Operation not supported on transport endpoint
+[   11.107140] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/print:  Operation not supported on transport endpoint
+[   11.107432] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/print/format:  Operation not supported on transport endpoint
+[   11.107673] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/print/filter:  Operation not supported on transport endpoint
+[   11.107943] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/mmiotrace_rw:  Operation not supported on transport endpoint
+[   11.108238] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/mmiotrace_rw/format:  Operation not supported on transport endpoint
+[   11.108537] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/mmiotrace_rw/filter:  Operation not supported on transport endpoint
+[   11.108810] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/mmiotrace_map:  Operation not supported on transport endpoint
+[   11.109107] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/mmiotrace_map/format:  Operation not supported on transport endpoint
+[   11.109410] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/mmiotrace_map/filter:  Operation not supported on transport endpoint
+[   11.109680] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/branch:  Operation not supported on transport endpoint
+[   11.109972] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/branch/format:  Operation not supported on transport endpoint
+[   11.110213] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/branch/filter:  Operation not supported on transport endpoint
+[   11.110451] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/enable:  Operation not supported on transport endpoint
+[   11.110745] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/ftrace/filter:  Operation not supported on transport endpoint
+[   11.111062] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue:  Operation not supported on transport endpoint
+[   11.111425] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_queue_work:  Operation not supported on transport endpoint
+[   11.111741] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_queue_work/format:  Operation not supported on transport endpoint
+[   11.112046] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_queue_work/filter:  Operation not supported on transport endpoint
+[   11.112290] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_queue_work/id:  Operation not supported on transport endpoint
+[   11.112533] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_queue_work/enable:  Operation not supported on transport endpoint
+[   11.112866] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_activate_work:  Operation not supported on transport endpoint
+[   11.113180] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_activate_work/format:  Operation not supported on transport endpoint
+[   11.113427] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_activate_work/filter:  Operation not supported on transport endpoint
+[   11.113729] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_activate_work/id:  Operation not supported on transport endpoint
+[   11.113974] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_activate_work/enable:  Operation not supported on transport endpoint
+[   11.114310] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_start:  Operation not supported on transport endpoint
+[   11.114625] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_start/format:  Operation not supported on transport endpoint
+[   11.114870] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_start/filter:  Operation not supported on transport endpoint
+[   11.115171] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_start/id:  Operation not supported on transport endpoint
+[   11.115415] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_start/enable:  Operation not supported on transport endpoint
+[   11.115689] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_end:  Operation not supported on transport endpoint
+[   11.116062] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_end/format:  Operation not supported on transport endpoint
+[   11.116310] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_end/filter:  Operation not supported on transport endpoint
+[   11.116614] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_end/id:  Operation not supported on transport endpoint
+[   11.116856] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/workqueue_execute_end/enable:  Operation not supported on transport endpoint
+[   11.117097] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/enable:  Operation not supported on transport endpoint
+[   11.117333] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/workqueue/filter:  Operation not supported on transport endpoint
+[   11.117657] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal:  Operation not supported on transport endpoint
+[   11.118012] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_generate:  Operation not supported on transport endpoint
+[   11.118321] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_generate/format:  Operation not supported on transport endpoint
+[   11.118563] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_generate/filter:  Operation not supported on transport endpoint
+[   11.118859] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_generate/id:  Operation not supported on transport endpoint
+[   11.119100] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_generate/enable:  Operation not supported on transport endpoint
+[   11.119371] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_deliver:  Operation not supported on transport endpoint
+[   11.119681] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_deliver/format:  Operation not supported on transport endpoint
+[   11.119984] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_deliver/filter:  Operation not supported on transport endpoint
+[   11.120224] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_deliver/id:  Operation not supported on transport endpoint
+[   11.120467] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_deliver/enable:  Operation not supported on transport endpoint
+[   11.120795] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_overflow_fail:  Operation not supported on transport endpoint
+[   11.121160] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_overflow_fail/format:  Operation not supported on transport endpoint
+[   11.121408] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_overflow_fail/filter:  Operation not supported on transport endpoint
+[   11.121712] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_overflow_fail/id:  Operation not supported on transport endpoint
+[   11.121957] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_overflow_fail/enable:  Operation not supported on transport endpoint
+[   11.122227] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_lose_info:  Operation not supported on transport endpoint
+[   11.122602] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_lose_info/format:  Operation not supported on transport endpoint
+[   11.122845] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_lose_info/filter:  Operation not supported on transport endpoint
+[   11.123090] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_lose_info/id:  Operation not supported on transport endpoint
+[   11.123332] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/signal_lose_info/enable:  Operation not supported on transport endpoint
+[   11.123630] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/enable:  Operation not supported on transport endpoint
+[   11.123868] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/signal/filter:  Operation not supported on transport endpoint
+[   11.124136] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer:  Operation not supported on transport endpoint
+[   11.124550] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_init:  Operation not supported on transport endpoint
+[   11.124858] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_init/format:  Operation not supported on transport endpoint
+[   11.125160] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_init/filter:  Operation not supported on transport endpoint
+[   11.125402] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_init/id:  Operation not supported on transport endpoint
+[   11.125639] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_init/enable:  Operation not supported on transport endpoint
+[   11.125909] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_start:  Operation not supported on transport endpoint
+[   11.126276] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_start/format:  Operation not supported on transport endpoint
+[   11.126517] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_start/filter:  Operation not supported on transport endpoint
+[   11.126756] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_start/id:  Operation not supported on transport endpoint
+[   11.126993] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_start/enable:  Operation not supported on transport endpoint
+[   11.127321] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_entry:  Operation not supported on transport endpoint
+[   11.127631] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_entry/format:  Operation not supported on transport endpoint
+[   11.127875] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_entry/filter:  Operation not supported on transport endpoint
+[   11.128174] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_entry/id:  Operation not supported on transport endpoint
+[   11.128413] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_entry/enable:  Operation not supported on transport endpoint
+[   11.128684] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_exit:  Operation not supported on transport endpoint
+[   11.128995] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_exit/format:  Operation not supported on transport endpoint
+[   11.129297] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_exit/filter:  Operation not supported on transport endpoint
+[   11.129540] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_exit/id:  Operation not supported on transport endpoint
+[   11.129784] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_expire_exit/enable:  Operation not supported on transport endpoint
+[   11.130115] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_cancel:  Operation not supported on transport endpoint
+[   11.130422] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_cancel/format:  Operation not supported on transport endpoint
+[   11.130665] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_cancel/filter:  Operation not supported on transport endpoint
+[   11.130908] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_cancel/id:  Operation not supported on transport endpoint
+[   11.131256] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/timer_cancel/enable:  Operation not supported on transport endpoint
+[   11.131528] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_init:  Operation not supported on transport endpoint
+[   11.131840] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_init/format:  Operation not supported on transport endpoint
+[   11.132085] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_init/filter:  Operation not supported on transport endpoint
+[   11.132385] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_init/id:  Operation not supported on transport endpoint
+[   11.132626] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_init/enable:  Operation not supported on transport endpoint
+[   11.132911] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_start:  Operation not supported on transport endpoint
+[   11.133224] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_start/format:  Operation not supported on transport endpoint
+[   11.133529] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_start/filter:  Operation not supported on transport endpoint
+[   11.133770] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_start/id:  Operation not supported on transport endpoint
+[   11.134011] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_start/enable:  Operation not supported on transport endpoint
+[   11.134341] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_entry:  Operation not supported on transport endpoint
+[   11.134652] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_entry/format:  Operation not supported on transport endpoint
+[   11.134895] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_entry/filter:  Operation not supported on transport endpoint
+[   11.135135] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_entry/id:  Operation not supported on transport endpoint
+[   11.135435] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_entry/enable:  Operation not supported on transport endpoint
+[   11.135705] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit:  Operation not supported on transport endpoint
+[   11.136014] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit/format:  Operation not supported on transport endpoint
+[   11.136317] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit/filter:  Operation not supported on transport endpoint
+[   11.136559] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit/id:  Operation not supported on transport endpoint
+[   11.136799] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit/enable:  Operation not supported on transport endpoint
+[   11.137129] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel:  Operation not supported on transport endpoint
+[   11.137439] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel/format:  Operation not supported on transport endpoint
+[   11.137680] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel/filter:  Operation not supported on transport endpoint
+[   11.137920] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel/id:  Operation not supported on transport endpoint
+[   11.138220] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel/enable:  Operation not supported on transport endpoint
+[   11.138489] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state:  Operation not supported on transport endpoint
+[   11.138801] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state/format:  Operation not supported on transport endpoint
+[   11.139101] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state/filter:  Operation not supported on transport endpoint
+[   11.139341] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state/id:  Operation not supported on transport endpoint
+[   11.139583] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state/enable:  Operation not supported on transport endpoint
+[   11.139853] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire:  Operation not supported on transport endpoint
+[   11.140218] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire/format:  Operation not supported on transport endpoint
+[   11.140460] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire/filter:  Operation not supported on transport endpoint
+[   11.140701] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire/id:  Operation not supported on transport endpoint
+[   11.140985] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire/enable:  Operation not supported on transport endpoint
+[   11.141288] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/enable:  Operation not supported on transport endpoint
+[   11.141530] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/filter:  Operation not supported on transport endpoint
+[   11.141797] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq:  Operation not supported on transport endpoint
+[   11.142158] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry:  Operation not supported on transport endpoint
+[   11.142470] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry/format:  Operation not supported on transport endpoint
+[   11.142773] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry/filter:  Operation not supported on transport endpoint
+[   11.143014] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry/id:  Operation not supported on transport endpoint
+[   11.143257] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry/enable:  Operation not supported on transport endpoint
+[   11.143529] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit:  Operation not supported on transport endpoint
+[   11.143902] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit/format:  Operation not supported on transport endpoint
+[   11.144148] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit/filter:  Operation not supported on transport endpoint
+[   11.144391] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit/id:  Operation not supported on transport endpoint
+[   11.144691] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit/enable:  Operation not supported on transport endpoint
+[   11.144960] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry:  Operation not supported on transport endpoint
+[   11.145268] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry/format:  Operation not supported on transport endpoint
+[   11.145511] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry/filter:  Operation not supported on transport endpoint
+[   11.145809] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry/id:  Operation not supported on transport endpoint
+[   11.146047] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry/enable:  Operation not supported on transport endpoint
+[   11.146314] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit:  Operation not supported on transport endpoint
+[   11.146624] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit/format:  Operation not supported on transport endpoint
+[   11.146924] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit/filter:  Operation not supported on transport endpoint
+[   11.147164] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit/id:  Operation not supported on transport endpoint
+[   11.147403] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit/enable:  Operation not supported on transport endpoint
+[   11.147670] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise:  Operation not supported on transport endpoint
+[   11.147978] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise/format:  Operation not supported on transport endpoint
+[   11.148220] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise/filter:  Operation not supported on transport endpoint
+[   11.148459] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise/id:  Operation not supported on transport endpoint
+[   11.148697] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise/enable:  Operation not supported on transport endpoint
+[   11.148993] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/enable:  Operation not supported on transport endpoint
+[   11.149229] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/filter:  Operation not supported on transport endpoint
+[   11.149495] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched:  Operation not supported on transport endpoint
+[   11.149938] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop:  Operation not supported on transport endpoint
+[   11.150251] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop/format:  Operation not supported on transport endpoint
+[   11.150552] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop/filter:  Operation not supported on transport endpoint
+[   11.150795] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop/id:  Operation not supported on transport endpoint
+[   11.151145] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop/enable:  Operation not supported on transport endpoint
+[   11.151421] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret:  Operation not supported on transport endpoint
+[   11.151798] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret/format:  Operation not supported on transport endpoint
+[   11.152041] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret/filter:  Operation not supported on transport endpoint
+[   11.152283] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret/id:  Operation not supported on transport endpoint
+[   11.152584] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret/enable:  Operation not supported on transport endpoint
+[   11.152855] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup:  Operation not supported on transport endpoint
+[   11.153167] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup/format:  Operation not supported on transport endpoint
+[   11.153471] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup/filter:  Operation not supported on transport endpoint
+[   11.153712] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup/id:  Operation not supported on transport endpoint
+[   11.153957] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup/enable:  Operation not supported on transport endpoint
+[   11.154229] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new:  Operation not supported on transport endpoint
+[   11.154597] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new/format:  Operation not supported on transport endpoint
+[   11.154841] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new/filter:  Operation not supported on transport endpoint
+[   11.155083] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new/id:  Operation not supported on transport endpoint
+[   11.155383] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new/enable:  Operation not supported on transport endpoint
+[   11.155653] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch:  Operation not supported on transport endpoint
+[   11.155960] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch/format:  Operation not supported on transport endpoint
+[   11.156202] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch/filter:  Operation not supported on transport endpoint
+[   11.156500] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch/id:  Operation not supported on transport endpoint
+[   11.156738] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch/enable:  Operation not supported on transport endpoint
+[   11.157008] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task:  Operation not supported on transport endpoint
+[   11.157318] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task/format:  Operation not supported on transport endpoint
+[   11.157621] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task/filter:  Operation not supported on transport endpoint
+[   11.157865] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task/id:  Operation not supported on transport endpoint
+[   11.158107] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task/enable:  Operation not supported on transport endpoint
+[   11.158440] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free:  Operation not supported on transport endpoint
+[   11.158752] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free/format:  Operation not supported on transport endpoint
+[   11.158996] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free/filter:  Operation not supported on transport endpoint
+[   11.159296] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free/id:  Operation not supported on transport endpoint
+[   11.159538] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free/enable:  Operation not supported on transport endpoint
+[   11.159808] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit:  Operation not supported on transport endpoint
+[   11.160120] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit/format:  Operation not supported on transport endpoint
+[   11.160420] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit/filter:  Operation not supported on transport endpoint
+[   11.160662] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit/id:  Operation not supported on transport endpoint
+[   11.160902] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit/enable:  Operation not supported on transport endpoint
+[   11.161281] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task:  Operation not supported on transport endpoint
+[   11.161593] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task/format:  Operation not supported on transport endpoint
+[   11.161839] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task/filter:  Operation not supported on transport endpoint
+[   11.162138] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task/id:  Operation not supported on transport endpoint
+[   11.162380] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task/enable:  Operation not supported on transport endpoint
+[   11.162655] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait:  Operation not supported on transport endpoint
+[   11.162964] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait/format:  Operation not supported on transport endpoint
+[   11.163265] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait/filter:  Operation not supported on transport endpoint
+[   11.163508] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait/id:  Operation not supported on transport endpoint
+[   11.163750] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait/enable:  Operation not supported on transport endpoint
+[   11.164083] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork:  Operation not supported on transport endpoint
+[   11.164392] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork/format:  Operation not supported on transport endpoint
+[   11.164635] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork/filter:  Operation not supported on transport endpoint
+[   11.164935] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork/id:  Operation not supported on transport endpoint
+[   11.165176] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork/enable:  Operation not supported on transport endpoint
+[   11.165447] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait:  Operation not supported on transport endpoint
+[   11.165756] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait/format:  Operation not supported on transport endpoint
+[   11.166057] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait/filter:  Operation not supported on transport endpoint
+[   11.166297] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait/id:  Operation not supported on transport endpoint
+[   11.166539] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait/enable:  Operation not supported on transport endpoint
+[   11.166869] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep:  Operation not supported on transport endpoint
+[   11.167179] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep/format:  Operation not supported on transport endpoint
+[   11.167420] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep/filter:  Operation not supported on transport endpoint
+[   11.167661] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep/id:  Operation not supported on transport endpoint
+[   11.167962] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep/enable:  Operation not supported on transport endpoint
+[   11.168231] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait:  Operation not supported on transport endpoint
+[   11.168542] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait/format:  Operation not supported on transport endpoint
+[   11.168843] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait/filter:  Operation not supported on transport endpoint
+[   11.169083] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait/id:  Operation not supported on transport endpoint
+[   11.169324] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait/enable:  Operation not supported on transport endpoint
+[   11.169593] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime:  Operation not supported on transport endpoint
+[   11.169960] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime/format:  Operation not supported on transport endpoint
+[   11.170202] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime/filter:  Operation not supported on transport endpoint
+[   11.170444] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime/id:  Operation not supported on transport endpoint
+[   11.170741] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime/enable:  Operation not supported on transport endpoint
+[   11.171073] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio:  Operation not supported on transport endpoint
+[   11.171390] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio/format:  Operation not supported on transport endpoint
+[   11.171700] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio/filter:  Operation not supported on transport endpoint
+[   11.171944] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio/id:  Operation not supported on transport endpoint
+[   11.172187] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio/enable:  Operation not supported on transport endpoint
+[   11.172427] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/enable:  Operation not supported on transport endpoint
+[   11.172722] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/filter:  Operation not supported on transport endpoint
+[   11.172962] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/enable:  Operation not supported on transport endpoint
+[   11.173198] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/header_event:  Operation not supported on transport endpoint
+[   11.173433] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/header_page:  Operation not supported on transport endpoint
+[   11.173667] init: SELinux: Could not set context for /sys/kernel/debug/tracing/set_event:  Operation not supported on transport endpoint
+[   11.173904] init: SELinux: Could not set context for /sys/kernel/debug/tracing/available_events:  Operation not supported on transport endpoint
+[   11.174135] init: SELinux: Could not set context for /sys/kernel/debug/tracing/printk_formats:  Operation not supported on transport endpoint
+[   11.174455] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu:  Operation not supported on transport endpoint
+[   11.174788] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3:  Operation not supported on transport endpoint
+[   11.175095] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3/stats:  Operation not supported on transport endpoint
+[   11.175337] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3/trace_pipe_raw:  Operation not supported on transport endpoint
+[   11.175577] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3/trace:  Operation not supported on transport endpoint
+[   11.175812] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3/trace_pipe:  Operation not supported on transport endpoint
+[   11.176140] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2:  Operation not supported on transport endpoint
+[   11.176445] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2/stats:  Operation not supported on transport endpoint
+[   11.176686] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2/trace_pipe_raw:  Operation not supported on transport endpoint
+[   11.176919] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2/trace:  Operation not supported on transport endpoint
+[   11.177172] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2/trace_pipe:  Operation not supported on transport endpoint
+[   11.177438] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1:  Operation not supported on transport endpoint
+[   11.177803] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1/stats:  Operation not supported on transport endpoint
+[   11.178043] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1/trace_pipe_raw:  Operation not supported on transport endpoint
+[   11.178283] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1/trace:  Operation not supported on transport endpoint
+[   11.178520] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1/trace_pipe:  Operation not supported on transport endpoint
+[   11.178785] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0:  Operation not supported on transport endpoint
+[   11.179090] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0/stats:  Operation not supported on transport endpoint
+[   11.179388] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0/trace_pipe_raw:  Operation not supported on transport endpoint
+[   11.179624] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0/trace:  Operation not supported on transport endpoint
+[   11.179859] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0/trace_pipe:  Operation not supported on transport endpoint
+[   11.180125] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options:  Operation not supported on transport endpoint
+[   11.180562] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/disable_on_free:  Operation not supported on transport endpoint
+[   11.180801] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/overwrite:  Operation not supported on transport endpoint
+[   11.181145] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/record-cmd:  Operation not supported on transport endpoint
+[   11.181385] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/graph-time:  Operation not supported on transport endpoint
+[   11.181619] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/sleep-time:  Operation not supported on transport endpoint
+[   11.181853] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/latency-format:  Operation not supported on transport endpoint
+[   11.182090] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/context-info:  Operation not supported on transport endpoint
+[   11.182327] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/printk-msg-only:  Operation not supported on transport endpoint
+[   11.182622] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/sym-userobj:  Operation not supported on transport endpoint
+[   11.182857] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/userstacktrace:  Operation not supported on transport endpoint
+[   11.183095] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/annotate:  Operation not supported on transport endpoint
+[   11.183330] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/branch:  Operation not supported on transport endpoint
+[   11.183562] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/ftrace_preempt:  Operation not supported on transport endpoint
+[   11.183858] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/trace_printk:  Operation not supported on transport endpoint
+[   11.184157] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/stacktrace:  Operation not supported on transport endpoint
+[   11.184389] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/block:  Operation not supported on transport endpoint
+[   11.184619] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/bin:  Operation not supported on transport endpoint
+[   11.184850] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/hex:  Operation not supported on transport endpoint
+[   11.185084] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/raw:  Operation not supported on transport endpoint
+[   11.185316] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/verbose:  Operation not supported on transport endpoint
+[   11.185549] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/sym-addr:  Operation not supported on transport endpoint
+[   11.185843] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/sym-offset:  Operation not supported on transport endpoint
+[   11.186079] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/print-parent:  Operation not supported on transport endpoint
+[   11.186311] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace_clock:  Operation not supported on transport endpoint
+[   11.186546] init: SELinux: Could not set context for /sys/kernel/debug/tracing/saved_cmdlines:  Operation not supported on transport endpoint
+[   11.186763] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace_marker:  Operation not supported on transport endpoint
+[   11.186999] init: SELinux: Could not set context for /sys/kernel/debug/tracing/free_buffer:  Operation not supported on transport endpoint
+[   11.187236] init: SELinux: Could not set context for /sys/kernel/debug/tracing/buffer_size_kb:  Operation not supported on transport endpoint
+[   11.187526] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace_pipe:  Operation not supported on transport endpoint
+[   11.187757] init: SELinux: Could not set context for /sys/kernel/debug/tracing/README:  Operation not supported on transport endpoint
+[   11.187987] init: SELinux: Could not set context for /sys/kernel/debug/tracing/tracing_thresh:  Operation not supported on transport endpoint
+[   11.188218] init: SELinux: Could not set context for /sys/kernel/debug/tracing/current_tracer:  Operation not supported on transport endpoint
+[   11.188450] init: SELinux: Could not set context for /sys/kernel/debug/tracing/available_tracers:  Operation not supported on transport endpoint
+[   11.188681] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace:  Operation not supported on transport endpoint
+[   11.188913] init: SELinux: Could not set context for /sys/kernel/debug/tracing/tracing_cpumask:  Operation not supported on transport endpoint
+[   11.189145] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace_options:  Operation not supported on transport endpoint
+[   11.189378] init: SELinux: Could not set context for /sys/kernel/debug/tracing/tracing_enabled:  Operation not supported on transport endpoint
+[   11.189667] init: SELinux: Could not set context for /sys/kernel/debug/tracing/tracing_on:  Operation not supported on transport endpoint
+[   11.200464] init: property_set("ro.debuggable", "1") failed
+[   11.201735] init: (Loading properties from /system/build.prop took 0.00s.)
+[   11.201957] init: (Loading properties from /vendor/build.prop took 0.00s.)
+[   11.202073] init: (Loading properties from /factory/factory.prop took 0.00s.)
+[   11.204293] init: Starting service 'debuggerd'...
+[   11.205130] init: do_start: Service debuggerd64 not found
+[   11.206364] init: Starting service 'vold'...
+[   11.209065] init: Not bootcharting.
+[   11.456866] init: Starting service 'exec 1 (/system/bin/tzdatacheck)'...
+[   11.479163] init: Service 'exec 1 (/system/bin/tzdatacheck)' (pid 151) exited with status 0
+[   11.488588] init: write_file: Unable to write to '/sys/class/gpio/gpio162/value': Operation not permitted
+[   11.489663] init: (Loading properties from /data/local.prop took 0.00s.)
+[   11.572987] init: Starting service 'logd-reinit'...
+[   11.595566] logd.daemon: reinit
+[   11.871193] init: Service 'logd-reinit' (pid 152) exited with status 0
+[   11.874734] init: Starting service 'healthd'...
+[   11.876145] init: Starting service 'lmkd'...
+[   11.877618] init: Starting service 'servicemanager'...
+[   11.879243] init: Starting service 'surfaceflinger'...
+[   11.880240] binder: 153:153 transaction failed 29189, size 0-0
+[   11.895198] Tegra auto-hotplug enabled
+[   11.897624] init: write_file: Unable to open '/sys/block/mmcblk1/queue/read_ahead_kb': No such file or directory
+[   11.897823] init: write_file: Unable to open '/sys/block/mmcblk1/queue/nr_requests': No such file or directory
+[   11.898016] init: write_file: Unable to open '/sys/block/mmcblk1/queue/add_random': No such file or directory
+[   11.898212] init: write_file: Unable to open '/sys/block/mmcblk1/queue/rq_affinity': No such file or directory
+[   11.899476] init: Starting service 'touch_fw_update'...
+[   11.901526] init: service 'console' requires console
+[   11.901738] android_usb: already disabled
+[   11.902086] init: Starting service 'adbd'...
+[   11.903424] init: cannot find '/system/bin/update_verifier' (No such file or directory), disabling 'exec 2 (/system/bin/update_verifier)'
+[   11.904088] init: Service set_hwui_params does not have a SELinux domain defined.
+[   11.906152] init: Starting service 'gpsd'...
+[   11.907238] init: cannot find '/vendor/bin/tf_daemon' (No such file or directory), disabling 'tf_daemon'
+[   11.907978] init: Service sensors-calib does not have a SELinux domain defined.
+[   11.908677] init: Starting service 'zygote'...
+[   11.910130] init: Starting service 'audioserver'...
+[   11.910815] adb_open
+[   11.911993] init: Starting service 'drm'...
+[   11.913580] init: Starting service 'installd'...
+[   11.913759] adb_open(usb open)
+[   11.913854] adb_bind_config
+[   11.915354] init: Starting service 'keystore'...
+[   11.917412] init: Starting service 'mediacodec'...
+[   11.918893] init: Starting service 'mediadrm'...
+[   11.920322] init: Starting service 'mediaextractor'...
+[   11.922071] init: Starting service 'media'...
+[   11.923500] init: Starting service 'netd'...
+[   11.924771] init: Starting service 'ril-daemon'...
+[   11.926441] init: Starting service 'gatekeeperd'...
+[   12.053075] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   12.053321] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   12.057641] L2
+[   12.059189] android_work: did not send uevent (0 0   (null))
+[   12.063743] CP L2->L0
+[   12.072676] L0
+[   12.177434] android_work: sent uevent USB_STATE=CONNECTED
+[   12.180705] android_work: sent uevent USB_STATE=DISCONNECTED
+[   12.314848] init: Starting service 'perfprofd'...
+[   12.316861] android_work: sent uevent USB_STATE=CONNECTED
+[   12.329769] set_config : usb set config wake lock ++
+[   12.329846] android_usb gadget: high speed config #1: android
+[   12.330091] android_work: sent uevent USB_STATE=CONFIGURED
+[   12.346519] [ektf3k]:Update touch firmware with the file path:/system/vendor/firmware/touch_fw.ekt
+[   12.382079] [ektf3k]:The firmware was version 0xB011 and id:0x3021
+[   12.382154] [ektf3k]:No need to update firmware
+[   12.383666] init: Service 'touch_fw_update' (pid 157) exited with status 0
+[   12.644215] widget AIF3RX AIF3 Playback
+[   12.644341] widget AIF3TX AIF3 Capture
+[   12.767067] RIL: [release_sim_plug_state_work_handle] active changing plug state
+[   12.767213] RIL: [hotplug_work_handle] sim state = 0
+[   12.854277] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[   12.863602] nvavp nvavp: read firmware from 'nvavp_os_0ff00000.bin' (15404 bytes)
+[   12.881829] healthd: wakealarm_init: timerfd_create failed
+[   12.883057] healthd: BatteryFullChargePath not found
+[   12.883153] healthd: BatteryCycleCountPath not found
+[   12.885707] bq27541_get_capacity = 89% ret= 88
+[   12.888922] nvavp nvavp: entry=00000094 control=00004a10 debug=00005210 size=15380
+[   12.889396] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[   12.890137] bq27541_get_psp voltage_now= 4051000 uV
+[   12.893652] bq27541_get_psp current = -354 mA
+[   12.894590] bq27541_get_psp temperature= 210 (0.1¢XC)
+[   12.895334] bq27541_get_psp status: Charging ret= 0x0181
+[   12.896416] healthd: battery l=89 v=4051 t=21.0 h=2 st=2 c=0 chg=u
+[   12.899203] nvavp nvavp: read ucode firmware from 'nvavp_vid_ucode_alt.bin' (27056 bytes)
+[   12.911017] cable_detection_work_handler(): vbus_active = 0 and is_active = 1
+[   12.911141] The USB cable is connected
+[   12.911201] smb347_charger: [usb_det_cable_callback] usb_det_cable_type=1
+[   12.911316] elan-ktf3k 1-0010: Update power source to 1
+[   12.945168] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[   12.945623] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[   13.004195] tegra_camera tegra_camera: tegra_camera_open
+[   13.519122] init: Starting service 'bootanim'...
+[   14.981401] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   14.981519] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   14.986391] L2
+[   15.768398] AP L2->L0
+[   15.770353] L0
+[   18.151264] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   18.152313] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   18.157310] L2
+[   18.359138] warning: `main' uses 32-bit capabilities (legacy support in use)
+[   21.156129] type=1400 audit(1525928560.690:4): avc: denied { ptrace } for pid=454 comm="system_server" scontext=u:r:system_server:s0 tcontext=u:r:init:s0 tclass=process permissive=0
+[   21.222151] type=1400 audit(1525928560.760:5): avc: denied { ptrace } for pid=454 comm="system_server" scontext=u:r:system_server:s0 tcontext=u:r:keystore:s0 tclass=process permissive=0
+[   21.225343] type=1400 audit(1525928560.760:6): avc: denied { ptrace } for pid=454 comm="system_server" scontext=u:r:system_server:s0 tcontext=u:r:rild:s0 tclass=process permissive=0
+[   21.226797] type=1400 audit(1525928560.760:7): avc: denied { ptrace } for pid=454 comm="system_server" scontext=u:r:system_server:s0 tcontext=u:r:perfprofd:s0 tclass=process permissive=0
+[   21.229501] type=1400 audit(1525928560.760:8): avc: denied { ptrace } for pid=454 comm="system_server" scontext=u:r:system_server:s0 tcontext=u:r:bootanim:s0 tclass=process permissive=0
+[   21.296720] request_suspend_state: wakeup (3->0) at 21295789002 (2018-05-10 05:02:40.844814001 UTC)
+[   26.790975] dummy0: no IPv6 routers present
+[   30.567133] CP L2->L0
+[   30.603290] L0
+[   30.663497] tegra_ehci_urb_enqueue timer modify failed 
+[   32.951066] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   32.951244] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   32.956020] L2
+[   33.200714] bq27541_get_capacity = 89% ret= 88
+[   33.201463] bq27541_get_psp voltage_now= 4052000 uV
+[   33.202863] bq27541_get_psp current = -151 mA
+[   33.203713] bq27541_get_psp temperature= 210 (0.1¢XC)
+[   33.204550] bq27541_get_psp status: Charging ret= 0x0181
+[   33.205658] healthd: battery l=89 v=4052 t=21.0 h=2 st=2 c=0 chg=u
+[   33.315855] type=1400 audit(1525928572.850:9): avc: denied { ptrace } for pid=468 comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:init:s0 tclass=process permissive=0
+[   33.324998] iio-buffer, current state requested again
+[   33.330366] type=1400 audit(1525928572.860:10): avc: denied { ptrace } for pid=468 comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:keystore:s0 tclass=process permissive=0
+[   33.333501] type=1400 audit(1525928572.870:11): avc: denied { ptrace } for pid=468 comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:rild:s0 tclass=process permissive=0
+[   33.334280] type=1400 audit(1525928572.870:12): avc: denied { ptrace } for pid=468 comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:perfprofd:s0 tclass=process permissive=0
+[   33.338951] type=1400 audit(1525928572.870:13): avc: denied { ptrace } for pid=468 comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:bootanim:s0 tclass=process permissive=0
+[   33.346785] iio-buffer, current state requested again
+[   33.951534] iio-buffer, current state requested again
+[   33.952247] iio-buffer, current state requested again
+[   34.019302] tegra_camera tegra_camera: tegra_camera_release
+[   35.910629] acc_open
+[   35.910734] acc_release
+[   36.630912] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   36.631657] AP L2->L0
+[   36.633720] L0
+[   36.635802] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   36.637551] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   37.164184] 
+[   37.164194] Dongle Host Driver, version 5.90.195.114
+[   37.164197] Compiled in drivers/net/wireless/bcmdhd on Jan 13 2018 at 11:05:56
+[   37.164497] wl_android_wifi_on in
+[   37.164581] wifi_set_power = 1
+[   37.164665] Powering on wifi
+[   37.469967] =========== WLAN going back to live  ========
+[   37.470053] sdio_reset_comm():
+[   37.595460] type=1400 audit(1525928577.130:14): avc: denied { read } for pid=605 comm=45474C20496E6974 name="tegra_chip_id" dev=sysfs ino=898 scontext=u:r:bluetooth:s0 tcontext=u:object_r:sysfs_module_fuse:s0 tclass=file permissive=0
+[   37.596378] type=1400 audit(1525928577.130:15): avc: denied { read } for pid=605 comm=45474C20496E6974 name="tegra_chip_rev" dev=sysfs ino=897 scontext=u:r:bluetooth:s0 tcontext=u:object_r:sysfs_module_fuse:s0 tclass=file permissive=0
+[   37.655704] dhdsdio_write_vars: Download, Upload and compare of NVRAM succeeded.
+[   37.707138] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[   37.707417] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[   37.733516] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[   37.733872] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[   37.774950] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[   37.775412] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[   37.785546] Wake32 for irq=340
+[   37.785759] Wake32 for irq=340
+[   37.785829] Enabling wake32
+[   37.795051] Firmware up: op_mode=4, Broadcom Dongle Host Driver mac=08:60:6e:33:51:8d
+[   37.817690] Firmware version = wl0: Jan 23 2013 17:47:32 version 5.90.195.114 FWID 01-f9e7e464
+[   37.819606] p2p0: p2p_dev_addr=0a:60:6e:33:51:8d
+[   37.845958] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[   37.846313] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[   37.883495] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[   37.883862] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[   37.915627] dhd_rx_frame: net device is NOT registered yet. drop packet
+[   37.916395] dhd_rx_frame: net device is NOT registered yet. drop packet
+[   37.949648] init: Starting service 'p2p_supplicant'...
+[   39.011525] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   39.013075] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   39.022635] L2
+[   39.659229] dhd_set_suspend: Remove extra suspend setting
+[   40.574791] tegra_uart tegra_uart.2: Setting clk_src clk_m
+[   40.575233] tegra_uart tegra_uart.2: Setting clk_src clk_m
+[   40.577725] tegra_uart tegra_uart.2: Setting clk_src clk_m
+[   40.587899] tegra_uart tegra_uart.2: Setting clk_src pll_p
+[   40.624370] init: Service 'bootanim' (pid 232) exited with status 0
+[   40.793297] al3010 debug log : light sensor chip is resumed
+[   40.795380] No, NVIDIA, in fact you CANNOT read from userspace filesystems in the kernel - dmitrygr!
+[   40.798266] al3010 debug log : light sensor chip is resumed
+[   40.816177] init: Starting service 'exec 3 (/system/bin/bootstat)'...
+[   40.893038] init: Service 'exec 3 (/system/bin/bootstat)' (pid 904) exited with status 0
+[   40.894695] init: Starting service 'exec 4 (/system/bin/bootstat)'...
+[   40.919421] init: Service 'exec 4 (/system/bin/bootstat)' (pid 915) exited with status 0
+[   40.920180] init: Starting service 'exec 5 (/system/bin/bootstat)'...
+[   40.951814] init: Service 'exec 5 (/system/bin/bootstat)' (pid 916) exited with status 0
+[   40.952818] init: Starting service 'exec 6 (/system/bin/bootstat)'...
+[   41.010816] init: Service 'exec 6 (/system/bin/bootstat)' (pid 919) exited with status 0
+[   41.036134] tegra_uart tegra_uart.2: Setting clk_src clk_m
+[   41.148124] tegra_uart tegra_uart.2: Setting clk_src pll_p
+[   41.401942] Wake7 for irq=390
+[   41.402069] Enabling wake7
+[   41.921130] AP L2->L0
+[   41.929243] L0
+[   42.881066] shutdown_enable_set bq27541_device->shutdown_disable = 0
+[   44.328729] wl_bss_connect_done succeeded with 34:31:c4:3b:c0:ae
+[   44.380419] wl_bss_connect_done succeeded with 34:31:c4:3b:c0:ae
+[   45.243013] dhd_set_suspend: Remove extra suspend setting
+[   45.796681] pn544_dev_ioctl power on
+[   45.803084] tegra_camera tegra_camera: tegra_camera_open
+[   45.832164] tegra_camera tegra_camera: tegra_camera_release
+[   45.903337] pn544_dev_ioctl power off
+[   46.011051] pn544_dev_ioctl power on
+[   46.731060] cpu_down(1)+
+[   46.734026] stop_machine_cpu_stop smp=1
+[   46.734036] stop_machine_cpu_stop smp=2
+[   46.734048] stop_machine_cpu_stop smp=3
+[   46.734371] stop_machine_cpu_stop smp=0
+[   46.735575] CPU1: shutdown
+[   46.740090] cpu_down(1)-
+[   47.041475] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   47.042027] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   47.047836] L2
+[   47.182148] AP L2->L0
+[   47.201004] L0
+[   47.431567] cpu_up(1)+
+[   47.458795] CPU1: Booted secondary processor
+[   47.460994] Switched to NOHz mode on CPU #1
+[   47.470917] cpu_up(1)-
+[   48.461030] p2p0: no IPv6 routers present
+[   54.860996] wlan0: no IPv6 routers present
+[   55.042291] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   55.042553] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   55.047742] L2
+[   60.873622] type=1400 audit(1525928600.386:16): avc: denied { ptrace } for pid=467 comm="android.bg" scontext=u:r:system_server:s0 tcontext=u:r:init:s0 tclass=process permissive=0
+[   60.895818] type=1400 audit(1525928600.406:17): avc: denied { ptrace } for pid=467 comm="android.bg" scontext=u:r:system_server:s0 tcontext=u:r:keystore:s0 tclass=process permissive=0
+[   60.899137] type=1400 audit(1525928600.406:18): avc: denied { ptrace } for pid=467 comm="android.bg" scontext=u:r:system_server:s0 tcontext=u:r:rild:s0 tclass=process permissive=0
+[   60.900352] type=1400 audit(1525928600.406:19): avc: denied { ptrace } for pid=467 comm="android.bg" scontext=u:r:system_server:s0 tcontext=u:r:perfprofd:s0 tclass=process permissive=0
+[   60.938411] type=1400 audit(1525928600.446:20): avc: denied { ptrace } for pid=467 comm="android.bg" scontext=u:r:system_server:s0 tcontext=u:r:bluetooth:s0 tclass=process permissive=0
+[   63.991114] AP L2->L0
+[   63.993251] L0
+[   65.611768] bq27541_get_psp status: Charging ret= 0x0181
+[   65.612952] bq27541_get_psp voltage_now= 4016000 uV
+[   65.613683] bq27541_get_capacity = 89% ret= 88
+[   65.614486] bq27541_get_psp temperature= 220 (0.1¢XC)
+[   65.615941] bq27541_get_psp current = -541 mA
+[   65.618613] bq27541_get_capacity = 89% ret= 88
+[   65.619536] bq27541_get_psp voltage_now= 4016000 uV
+[   65.621344] bq27541_get_psp current = -541 mA
+[   65.623492] bq27541_get_psp temperature= 220 (0.1¢XC)
+[   65.624494] bq27541_get_psp status: Charging ret= 0x0181
+[   65.625754] healthd: battery l=89 v=4016 t=22.0 h=2 st=2 c=0 chg=u
+[   65.903593] smb347_charger: [smb347_config_thermal_charging] temp=21
+[   65.905481] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable
+[   66.051194] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   66.051478] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   66.056428] L2
+[   95.168202] CP L2->L0
+[   95.202788] L0
+[   97.261386] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[   97.261651] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[   97.266985] L2
+[  100.287767] CP L2->L0
+[  100.322305] L0
+[  103.051216] usb_net_raw_ip_rx_urb_comp: rx urb d6602980 - status -2
+[  103.051591] usb_net_raw_ip_rx_urb_comp: rx urb d64a9700 - status -2
+[  103.057216] L2
+[  125.931925] bq27541_get_psp status: Charging ret= 0x0180
+[  125.933183] bq27541_get_psp voltage_now= 4059000 uV
+[  125.933878] bq27541_get_capacity = 89% ret= 88
+[  125.934523] bq27541_get_psp temperature= 220 (0.1¢XC)
+[  125.935725] bq27541_get_psp current = 119 mA
+[  125.936973] bq27541_get_capacity = 89% ret= 88
+[  125.937683] bq27541_get_psp voltage_now= 4059000 uV
+[  125.938995] bq27541_get_psp current = 119 mA
+[  125.939687] bq27541_get_psp temperature= 220 (0.1¢XC)
+[  125.940386] bq27541_get_psp status: Charging ret= 0x0180
+[  125.940979] healthd: battery l=89 v=4059 t=22.0 h=2 st=2 c=0 chg=u
+[  126.071402] smb347_charger: [smb347_config_thermal_charging] temp=22
+[  126.071981] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable

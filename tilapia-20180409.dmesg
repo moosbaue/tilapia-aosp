@@ -1,0 +1,2215 @@
+eration not supported on transport endpoint
+[   11.745205] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit/format:  Operation not supported on transport endpoint
+[   11.745456] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit/filter:  Operation not supported on transport endpoint
+[   11.745707] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit/id:  Operation not supported on transport endpoint
+[   11.746014] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_expire_exit/enable:  Operation not supported on transport endpoint
+[   11.746300] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel:  Operation not supported on transport endpoint
+[   11.746613] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel/format:  Operation not supported on transport endpoint
+[   11.746923] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel/filter:  Operation not supported on transport endpoint
+[   11.747173] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel/id:  Operation not supported on transport endpoint
+[   11.747421] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/hrtimer_cancel/enable:  Operation not supported on transport endpoint
+[   11.747705] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state:  Operation not supported on transport endpoint
+[   11.748082] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state/format:  Operation not supported on transport endpoint
+[   11.748337] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state/filter:  Operation not supported on transport endpoint
+[   11.748589] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state/id:  Operation not supported on transport endpoint
+[   11.748837] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_state/enable:  Operation not supported on transport endpoint
+[   11.749178] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire:  Operation not supported on transport endpoint
+[   11.749490] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire/format:  Operation not supported on transport endpoint
+[   11.749739] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire/filter:  Operation not supported on transport endpoint
+[   11.749987] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire/id:  Operation not supported on transport endpoint
+[   11.750295] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/itimer_expire/enable:  Operation not supported on transport endpoint
+[   11.750540] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/enable:  Operation not supported on transport endpoint
+[   11.750786] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/timer/filter:  Operation not supported on transport endpoint
+[   11.751065] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq:  Operation not supported on transport endpoint
+[   11.751491] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry:  Operation not supported on transport endpoint
+[   11.751865] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry/format:  Operation not supported on transport endpoint
+[   11.752118] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry/filter:  Operation not supported on transport endpoint
+[   11.752368] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry/id:  Operation not supported on transport endpoint
+[   11.752680] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_entry/enable:  Operation not supported on transport endpoint
+[   11.752969] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit:  Operation not supported on transport endpoint
+[   11.753290] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit/format:  Operation not supported on transport endpoint
+[   11.753543] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit/filter:  Operation not supported on transport endpoint
+[   11.753853] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit/id:  Operation not supported on transport endpoint
+[   11.754105] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/irq_handler_exit/enable:  Operation not supported on transport endpoint
+[   11.754394] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry:  Operation not supported on transport endpoint
+[   11.754710] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry/format:  Operation not supported on transport endpoint
+[   11.755018] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry/filter:  Operation not supported on transport endpoint
+[   11.755267] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry/id:  Operation not supported on transport endpoint
+[   11.755516] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_entry/enable:  Operation not supported on transport endpoint
+[   11.755799] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit:  Operation not supported on transport endpoint
+[   11.756172] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit/format:  Operation not supported on transport endpoint
+[   11.756424] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit/filter:  Operation not supported on transport endpoint
+[   11.756672] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit/id:  Operation not supported on transport endpoint
+[   11.756920] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_exit/enable:  Operation not supported on transport endpoint
+[   11.757262] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise:  Operation not supported on transport endpoint
+[   11.757576] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise/format:  Operation not supported on transport endpoint
+[   11.757828] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise/filter:  Operation not supported on transport endpoint
+[   11.758077] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise/id:  Operation not supported on transport endpoint
+[   11.758387] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/softirq_raise/enable:  Operation not supported on transport endpoint
+[   11.758635] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/enable:  Operation not supported on transport endpoint
+[   11.758879] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/irq/filter:  Operation not supported on transport endpoint
+[   11.759162] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched:  Operation not supported on transport endpoint
+[   11.759610] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop:  Operation not supported on transport endpoint
+[   11.759989] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop/format:  Operation not supported on transport endpoint
+[   11.760242] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop/filter:  Operation not supported on transport endpoint
+[   11.760492] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop/id:  Operation not supported on transport endpoint
+[   11.760799] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop/enable:  Operation not supported on transport endpoint
+[   11.761091] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret:  Operation not supported on transport endpoint
+[   11.761459] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret/format:  Operation not supported on transport endpoint
+[   11.761717] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret/filter:  Operation not supported on transport endpoint
+[   11.762030] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret/id:  Operation not supported on transport endpoint
+[   11.762280] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_kthread_stop_ret/enable:  Operation not supported on transport endpoint
+[   11.762568] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup:  Operation not supported on transport endpoint
+[   11.762883] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup/format:  Operation not supported on transport endpoint
+[   11.763135] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup/filter:  Operation not supported on transport endpoint
+[   11.763385] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup/id:  Operation not supported on transport endpoint
+[   11.763690] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup/enable:  Operation not supported on transport endpoint
+[   11.763979] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new:  Operation not supported on transport endpoint
+[   11.764294] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new/format:  Operation not supported on transport endpoint
+[   11.764546] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new/filter:  Operation not supported on transport endpoint
+[   11.764855] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new/id:  Operation not supported on transport endpoint
+[   11.765107] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wakeup_new/enable:  Operation not supported on transport endpoint
+[   11.765395] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch:  Operation not supported on transport endpoint
+[   11.765710] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch/format:  Operation not supported on transport endpoint
+[   11.766020] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch/filter:  Operation not supported on transport endpoint
+[   11.766268] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch/id:  Operation not supported on transport endpoint
+[   11.766518] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_switch/enable:  Operation not supported on transport endpoint
+[   11.766802] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task:  Operation not supported on transport endpoint
+[   11.767114] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task/format:  Operation not supported on transport endpoint
+[   11.767365] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task/filter:  Operation not supported on transport endpoint
+[   11.767616] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task/id:  Operation not supported on transport endpoint
+[   11.767923] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_migrate_task/enable:  Operation not supported on transport endpoint
+[   11.768210] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free:  Operation not supported on transport endpoint
+[   11.768524] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free/format:  Operation not supported on transport endpoint
+[   11.768833] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free/filter:  Operation not supported on transport endpoint
+[   11.769084] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free/id:  Operation not supported on transport endpoint
+[   11.769336] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_free/enable:  Operation not supported on transport endpoint
+[   11.769682] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit:  Operation not supported on transport endpoint
+[   11.769997] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit/format:  Operation not supported on transport endpoint
+[   11.770250] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit/filter:  Operation not supported on transport endpoint
+[   11.770501] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit/id:  Operation not supported on transport endpoint
+[   11.770810] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_exit/enable:  Operation not supported on transport endpoint
+[   11.771097] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task:  Operation not supported on transport endpoint
+[   11.771461] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task/format:  Operation not supported on transport endpoint
+[   11.771777] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task/filter:  Operation not supported on transport endpoint
+[   11.772031] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task/id:  Operation not supported on transport endpoint
+[   11.772281] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_wait_task/enable:  Operation not supported on transport endpoint
+[   11.772571] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait:  Operation not supported on transport endpoint
+[   11.772950] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait/format:  Operation not supported on transport endpoint
+[   11.773205] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait/filter:  Operation not supported on transport endpoint
+[   11.773461] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait/id:  Operation not supported on transport endpoint
+[   11.773774] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_wait/enable:  Operation not supported on transport endpoint
+[   11.774061] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork:  Operation not supported on transport endpoint
+[   11.774379] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork/format:  Operation not supported on transport endpoint
+[   11.774689] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork/filter:  Operation not supported on transport endpoint
+[   11.774937] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork/id:  Operation not supported on transport endpoint
+[   11.775204] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_process_fork/enable:  Operation not supported on transport endpoint
+[   11.775490] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait:  Operation not supported on transport endpoint
+[   11.775864] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait/format:  Operation not supported on transport endpoint
+[   11.776114] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait/filter:  Operation not supported on transport endpoint
+[   11.776363] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait/id:  Operation not supported on transport endpoint
+[   11.776674] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_wait/enable:  Operation not supported on transport endpoint
+[   11.776961] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep:  Operation not supported on transport endpoint
+[   11.777277] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep/format:  Operation not supported on transport endpoint
+[   11.777530] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep/filter:  Operation not supported on transport endpoint
+[   11.777841] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep/id:  Operation not supported on transport endpoint
+[   11.778092] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_sleep/enable:  Operation not supported on transport endpoint
+[   11.778378] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait:  Operation not supported on transport endpoint
+[   11.778750] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait/format:  Operation not supported on transport endpoint
+[   11.779002] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait/filter:  Operation not supported on transport endpoint
+[   11.779252] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait/id:  Operation not supported on transport endpoint
+[   11.779499] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_iowait/enable:  Operation not supported on transport endpoint
+[   11.779840] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime:  Operation not supported on transport endpoint
+[   11.780156] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime/format:  Operation not supported on transport endpoint
+[   11.780407] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime/filter:  Operation not supported on transport endpoint
+[   11.780715] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime/id:  Operation not supported on transport endpoint
+[   11.780963] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_stat_runtime/enable:  Operation not supported on transport endpoint
+[   11.781299] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio:  Operation not supported on transport endpoint
+[   11.781677] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio/format:  Operation not supported on transport endpoint
+[   11.781935] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio/filter:  Operation not supported on transport endpoint
+[   11.782187] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio/id:  Operation not supported on transport endpoint
+[   11.782437] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/sched_pi_setprio/enable:  Operation not supported on transport endpoint
+[   11.782744] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/enable:  Operation not supported on transport endpoint
+[   11.782991] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/sched/filter:  Operation not supported on transport endpoint
+[   11.783235] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/enable:  Operation not supported on transport endpoint
+[   11.783480] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/header_event:  Operation not supported on transport endpoint
+[   11.783724] init: SELinux: Could not set context for /sys/kernel/debug/tracing/events/header_page:  Operation not supported on transport endpoint
+[   11.784025] init: SELinux: Could not set context for /sys/kernel/debug/tracing/set_event:  Operation not supported on transport endpoint
+[   11.784269] init: SELinux: Could not set context for /sys/kernel/debug/tracing/available_events:  Operation not supported on transport endpoint
+[   11.784506] init: SELinux: Could not set context for /sys/kernel/debug/tracing/printk_formats:  Operation not supported on transport endpoint
+[   11.784780] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu:  Operation not supported on transport endpoint
+[   11.785187] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3:  Operation not supported on transport endpoint
+[   11.785497] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3/stats:  Operation not supported on transport endpoint
+[   11.785747] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3/trace_pipe_raw:  Operation not supported on transport endpoint
+[   11.786049] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3/trace:  Operation not supported on transport endpoint
+[   11.786294] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu3/trace_pipe:  Operation not supported on transport endpoint
+[   11.786574] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2:  Operation not supported on transport endpoint
+[   11.786886] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2/stats:  Operation not supported on transport endpoint
+[   11.787136] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2/trace_pipe_raw:  Operation not supported on transport endpoint
+[   11.787383] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2/trace:  Operation not supported on transport endpoint
+[   11.787690] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu2/trace_pipe:  Operation not supported on transport endpoint
+[   11.787972] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1:  Operation not supported on transport endpoint
+[   11.788284] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1/stats:  Operation not supported on transport endpoint
+[   11.788536] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1/trace_pipe_raw:  Operation not supported on transport endpoint
+[   11.788786] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1/trace:  Operation not supported on transport endpoint
+[   11.789034] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu1/trace_pipe:  Operation not supported on transport endpoint
+[   11.789376] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0:  Operation not supported on transport endpoint
+[   11.789695] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0/stats:  Operation not supported on transport endpoint
+[   11.789943] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0/trace_pipe_raw:  Operation not supported on transport endpoint
+[   11.790187] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0/trace:  Operation not supported on transport endpoint
+[   11.790432] init: SELinux: Could not set context for /sys/kernel/debug/tracing/per_cpu/cpu0/trace_pipe:  Operation not supported on transport endpoint
+[   11.790768] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options:  Operation not supported on transport endpoint
+[   11.791244] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/disable_on_free:  Operation not supported on transport endpoint
+[   11.791499] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/overwrite:  Operation not supported on transport endpoint
+[   11.791744] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/record-cmd:  Operation not supported on transport endpoint
+[   11.791992] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/graph-time:  Operation not supported on transport endpoint
+[   11.792235] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/sleep-time:  Operation not supported on transport endpoint
+[   11.792479] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/latency-format:  Operation not supported on transport endpoint
+[   11.792781] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/context-info:  Operation not supported on transport endpoint
+[   11.793023] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/printk-msg-only:  Operation not supported on transport endpoint
+[   11.793268] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/sym-userobj:  Operation not supported on transport endpoint
+[   11.793513] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/userstacktrace:  Operation not supported on transport endpoint
+[   11.793758] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/annotate:  Operation not supported on transport endpoint
+[   11.794058] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/branch:  Operation not supported on transport endpoint
+[   11.794300] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/ftrace_preempt:  Operation not supported on transport endpoint
+[   11.794543] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/trace_printk:  Operation not supported on transport endpoint
+[   11.794786] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/stacktrace:  Operation not supported on transport endpoint
+[   11.795027] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/block:  Operation not supported on transport endpoint
+[   11.795266] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/bin:  Operation not supported on transport endpoint
+[   11.795504] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/hex:  Operation not supported on transport endpoint
+[   11.795800] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/raw:  Operation not supported on transport endpoint
+[   11.796039] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/verbose:  Operation not supported on transport endpoint
+[   11.796283] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/sym-addr:  Operation not supported on transport endpoint
+[   11.796527] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/sym-offset:  Operation not supported on transport endpoint
+[   11.796770] init: SELinux: Could not set context for /sys/kernel/debug/tracing/options/print-parent:  Operation not supported on transport endpoint
+[   11.797010] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace_clock:  Operation not supported on transport endpoint
+[   11.797249] init: SELinux: Could not set context for /sys/kernel/debug/tracing/saved_cmdlines:  Operation not supported on transport endpoint
+[   11.797526] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace_marker:  Operation not supported on transport endpoint
+[   11.797765] init: SELinux: Could not set context for /sys/kernel/debug/tracing/free_buffer:  Operation not supported on transport endpoint
+[   11.798007] init: SELinux: Could not set context for /sys/kernel/debug/tracing/buffer_size_kb:  Operation not supported on transport endpoint
+[   11.798246] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace_pipe:  Operation not supported on transport endpoint
+[   11.798485] init: SELinux: Could not set context for /sys/kernel/debug/tracing/README:  Operation not supported on transport endpoint
+[   11.798723] init: SELinux: Could not set context for /sys/kernel/debug/tracing/tracing_thresh:  Operation not supported on transport endpoint
+[   11.798962] init: SELinux: Could not set context for /sys/kernel/debug/tracing/current_tracer:  Operation not supported on transport endpoint
+[   11.799202] init: SELinux: Could not set context for /sys/kernel/debug/tracing/available_tracers:  Operation not supported on transport endpoint
+[   11.799494] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace:  Operation not supported on transport endpoint
+[   11.799733] init: SELinux: Could not set context for /sys/kernel/debug/tracing/tracing_cpumask:  Operation not supported on transport endpoint
+[   11.799975] init: SELinux: Could not set context for /sys/kernel/debug/tracing/trace_options:  Operation not supported on transport endpoint
+[   11.800212] init: SELinux: Could not set context for /sys/kernel/debug/tracing/tracing_enabled:  Operation not supported on transport endpoint
+[   11.800451] init: SELinux: Could not set context for /sys/kernel/debug/tracing/tracing_on:  Operation not supported on transport endpoint
+[   11.811692] init: property_set("ro.debuggable", "1") failed
+[   11.813132] init: (Loading properties from /system/build.prop took 0.00s.)
+[   11.813288] init: (Loading properties from /vendor/build.prop took 0.00s.)
+[   11.813462] init: (Loading properties from /factory/factory.prop took 0.00s.)
+[   11.815649] init: Starting service 'debuggerd'...
+[   11.816562] init: do_start: Service debuggerd64 not found
+[   11.817751] init: Starting service 'vold'...
+[   11.820609] init: Not bootcharting.
+[   12.041440] usb_net_raw_ip_rx_urb_comp: rx urb d5f45d00 - status -2
+[   12.041776] usb_net_raw_ip_rx_urb_comp: rx urb d5f45e80 - status -2
+[   12.045890] L2
+[   12.051291] CP L2->L0
+[   12.059998] init: Starting service 'exec 1 (/system/bin/tzdatacheck)'...
+[   12.061998] L0
+[   12.082539] init: Service 'exec 1 (/system/bin/tzdatacheck)' (pid 149) exited with status 0
+[   12.093734] init: (Loading properties from /data/local.prop took 0.00s.)
+[   43.301154] shutdown_enable_set bq27541_device->shutdown_disable = 0
+[   66.311418] bq27541_get_psp status: Charging ret= 0x0181
+[   66.312131] bq27541_get_psp voltage_now= 4033000 uV
+[   66.312772] bq27541_get_capacity = 87% ret= 86
+[   66.313418] bq27541_get_psp temperature= 270 (0.1¢XC)
+[   66.314675] bq27541_get_psp current = -56 mA
+[   66.451162] smb347_charger: [smb347_config_thermal_charging] temp=27
+[   66.451794] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable
+[   69.652595] nct1008_get_temp: ret temp=42C 
+[  127.301915] bq27541_get_psp status: Charging ret= 0x0181
+[  127.302570] bq27541_get_psp voltage_now= 4034000 uV
+[  127.303269] bq27541_get_capacity = 87% ret= 86
+[  127.303913] bq27541_get_psp temperature= 270 (0.1¢XC)
+[  127.305170] bq27541_get_psp current = -55 mA
+[  127.451558] smb347_charger: [smb347_config_thermal_charging] temp=27
+[  127.452120] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable
+[  188.311668] bq27541_get_psp status: Charging ret= 0x0181
+[  188.312382] bq27541_get_psp voltage_now= 4034000 uV
+[  188.313023] bq27541_get_capacity = 87% ret= 86
+[  188.313670] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  188.314928] bq27541_get_psp current = -54 mA
+[  188.451295] smb347_charger: [smb347_config_thermal_charging] temp=27
+[  188.451919] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable
+[  249.311779] bq27541_get_psp status: Charging ret= 0x0181
+[  249.312491] bq27541_get_psp voltage_now= 4034000 uV
+[  249.313132] bq27541_get_capacity = 87% ret= 86
+[  249.313832] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  249.315035] bq27541_get_psp current = -54 mA
+[  249.451459] smb347_charger: [smb347_config_thermal_charging] temp=28
+[  249.452023] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable
+[  300.338809] init: Starting service 'logd-reinit'...
+[  300.363044] logd.daemon: reinit
+[  300.555278] init: Service 'logd-reinit' (pid 151) exited with status 0
+[  300.558876] init: Starting service 'healthd'...
+[  300.560270] init: Starting service 'lmkd'...
+[  300.562424] init: Starting service 'servicemanager'...
+[  300.564359] init: Starting service 'surfaceflinger'...
+[  300.564422] binder: 152:152 transaction failed 29189, size 0-0
+[  300.729315] init: write_file: Unable to open '/sys/module/cpu_tegra3/parameters/no_lp': No such file or directory
+[  300.729477] init: write_file: Unable to open '/sys/module/cpu_tegra3/parameters/auto_hotplug': No such file or directory
+[  300.732425] init: write_file: Unable to open '/sys/block/mmcblk1/queue/read_ahead_kb': No such file or directory
+[  300.732611] init: write_file: Unable to open '/sys/block/mmcblk1/queue/nr_requests': No such file or directory
+[  300.732772] init: write_file: Unable to open '/sys/block/mmcblk1/queue/add_random': No such file or directory
+[  300.732922] init: write_file: Unable to open '/sys/block/mmcblk1/queue/rq_affinity': No such file or directory
+[  300.734393] init: Starting service 'touch_fw_update'...
+[  300.736413] init: service 'console' requires console
+[  300.736613] android_usb: already disabled
+[  300.736921] init: Starting service 'adbd'...
+[  300.737873] init: cannot find '/system/bin/update_verifier' (No such file or directory), disabling 'exec 2 (/system/bin/update_verifier)'
+[  300.738459] init: Starting service 'set_hwui_params'...
+[  300.742049] adb_open
+[  300.742120] adb_open(usb open)
+[  300.742181] adb_bind_config
+[  300.750747] init: Starting service 'gpsd'...
+[  300.751937] init: cannot find '/vendor/bin/tf_daemon' (No such file or directory), disabling 'tf_daemon'
+[  300.752592] init: Starting service 'sensors-calib'...
+[  300.753771] init: Starting service 'zygote'...
+[  300.754908] init: Starting service 'audioserver'...
+[  300.756095] init: Starting service 'drm'...
+[  300.757165] init: Starting service 'installd'...
+[  300.758278] init: Starting service 'keystore'...
+[  300.759484] init: Starting service 'mediacodec'...
+[  300.760627] init: Starting service 'mediadrm'...
+[  300.762355] init: Starting service 'mediaextractor'...
+[  300.763925] init: Starting service 'media'...
+[  300.765957] init: Starting service 'netd'...
+[  300.767780] init: Starting service 'ril-daemon'...
+[  300.770200] init: Starting service 'gatekeeperd'...
+[  300.831597] stop_machine_cpu_stop smp=0
+[  300.831606] stop_machine_cpu_stop smp=2
+[  300.831613] stop_machine_cpu_stop smp=3
+[  300.831622] stop_machine_cpu_stop smp=1
+[  300.832593] CPU3: shutdown
+[  300.885182] android_work: did not send uevent (0 0   (null))
+[  300.893348] stop_machine_cpu_stop smp=1
+[  300.893359] stop_machine_cpu_stop smp=2
+[  300.893370] stop_machine_cpu_stop smp=0
+[  300.894775] CPU2: shutdown
+[  300.957291] stop_machine_cpu_stop smp=0
+[  300.957306] stop_machine_cpu_stop smp=1
+[  300.958712] CPU1: shutdown
+[  301.003807] android_work: sent uevent USB_STATE=CONNECTED
+[  301.008244] android_work: sent uevent USB_STATE=DISCONNECTED
+[  301.131408] CPU1: Booted secondary processor
+[  301.141222] Switched to NOHz mode on CPU #1
+[  301.151253] android_work: sent uevent USB_STATE=CONNECTED
+[  301.156414] set_config : usb set config wake lock ++
+[  301.156488] android_usb gadget: high speed config #1: android
+[  301.156682] android_work: sent uevent USB_STATE=CONFIGURED
+[  301.198072] [ektf3k]:Update touch firmware with the file path:/system/vendor/firmware/touch_fw.ekt
+[  301.223476] [ektf3k]:The firmware was version 0xB011 and id:0x3021
+[  301.223550] [ektf3k]:No need to update firmware
+[  301.225918] CPU2: Booted secondary processor
+[  301.231218] Switched to NOHz mode on CPU #2
+[  301.291802] CPU3: Booted secondary processor
+[  301.301241] Switched to NOHz mode on CPU #3
+[  301.393414] init: Starting service 'perfprofd'...
+[  301.395408] init: Service 'touch_fw_update' (pid 161) exited with status 0
+[  301.395728] init: Service 'sensors-calib' (pid 168) exited with status 0
+[  301.525628] RIL: [release_sim_plug_state_work_handle] active changing plug state
+[  301.525811] RIL: [hotplug_work_handle] sim state = 0
+[  301.566146] healthd: wakealarm_init: timerfd_create failed
+[  301.566991] healthd: BatteryFullChargePath not found
+[  301.567144] healthd: BatteryCycleCountPath not found
+[  301.569755] bq27541_get_capacity = 87% ret= 86
+[  301.570625] bq27541_get_psp voltage_now= 4034000 uV
+[  301.572839] bq27541_get_psp current = -84 mA
+[  301.574327] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  301.575955] bq27541_get_psp status: Charging ret= 0x0181
+[  301.576450] healthd: battery l=87 v=4034 t=28.0 h=2 st=2 c=0 chg=u
+[  301.731632] cable_detection_work_handler(): vbus_active = 0 and is_active = 1
+[  301.731779] The USB cable is connected
+[  301.731883] smb347_charger: [usb_det_cable_callback] usb_det_cable_type=1
+[  301.732096] elan-ktf3k 1-0010: Update power source to 1
+[  301.769743] init: Starting service 'bootanim'...
+[  301.788668] widget AIF3RX AIF3 Playback
+[  301.788798] widget AIF3TX AIF3 Capture
+[  301.807544] init: Service 'set_hwui_params' (pid 163) exited with status 0
+[  301.926900] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[  302.113474] nvavp nvavp: read firmware from 'nvavp_os_0ff00000.bin' (15404 bytes)
+[  302.134180] nvavp nvavp: entry=00000094 control=00004a10 debug=00005210 size=15380
+[  302.134529] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[  302.153412] nvavp nvavp: read ucode firmware from 'nvavp_vid_ucode_alt.bin' (27056 bytes)
+[  302.193383] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[  302.193728] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[  302.237199] tegra_camera tegra_camera: tegra_camera_open
+[  303.032166] stop_machine_cpu_stop smp=0
+[  303.032173] stop_machine_cpu_stop smp=1
+[  303.032179] stop_machine_cpu_stop smp=3
+[  303.032186] stop_machine_cpu_stop smp=2
+[  303.032999] CPU3: shutdown
+[  303.092033] stop_machine_cpu_stop smp=0
+[  303.092044] stop_machine_cpu_stop smp=1
+[  303.092053] stop_machine_cpu_stop smp=2
+[  303.093038] CPU2: shutdown
+[  303.271471] CPU2: Booted secondary processor
+[  303.281210] Switched to NOHz mode on CPU #2
+[  303.341705] CPU3: Booted secondary processor
+[  303.351230] Switched to NOHz mode on CPU #3
+[  303.642778] stop_machine_cpu_stop smp=2
+[  303.642787] stop_machine_cpu_stop smp=3
+[  303.642794] stop_machine_cpu_stop smp=1
+[  303.642801] stop_machine_cpu_stop smp=0
+[  303.643743] CPU3: shutdown
+[  303.702259] stop_machine_cpu_stop smp=0
+[  303.702270] stop_machine_cpu_stop smp=2
+[  303.702280] stop_machine_cpu_stop smp=1
+[  303.703299] CPU2: shutdown
+[  303.762117] stop_machine_cpu_stop smp=0
+[  303.762128] stop_machine_cpu_stop smp=1
+[  303.763374] CPU1: shutdown
+[  304.001488] usb_net_raw_ip_rx_urb_comp: rx urb d5f45d00 - status -2
+[  304.001649] usb_net_raw_ip_rx_urb_comp: rx urb d5f45e80 - status -2
+[  304.008166] L2
+[  304.527020] AP L2->L0
+[  304.538048] L0
+[  304.713462] CPU1: Booted secondary processor
+[  304.721216] Switched to NOHz mode on CPU #1
+[  304.731455] stop_machine_cpu_stop smp=0
+[  304.731465] stop_machine_cpu_stop smp=1
+[  304.732403] CPU1: shutdown
+[  305.711467] CPU1: Booted secondary processor
+[  305.721233] Switched to NOHz mode on CPU #1
+[  305.751893] stop_machine_cpu_stop smp=0
+[  305.751901] stop_machine_cpu_stop smp=1
+[  305.752648] CPU1: shutdown
+[  306.711564] CPU1: Booted secondary processor
+[  306.721210] Switched to NOHz mode on CPU #1
+[  306.772060] CPU2: Booted secondary processor
+[  306.781222] Switched to NOHz mode on CPU #2
+[  306.841468] CPU3: Booted secondary processor
+[  306.851261] Switched to NOHz mode on CPU #3
+[  307.001409] usb_net_raw_ip_rx_urb_comp: rx urb d5f45d00 - status -2
+[  307.001541] usb_net_raw_ip_rx_urb_comp: rx urb d5f45e80 - status -2
+[  307.006720] L2
+[  307.142189] stop_machine_cpu_stop smp=1
+[  307.142201] stop_machine_cpu_stop smp=3
+[  307.142210] stop_machine_cpu_stop smp=0
+[  307.142242] stop_machine_cpu_stop smp=2
+[  307.143311] CPU3: shutdown
+[  307.202411] stop_machine_cpu_stop smp=0
+[  307.202421] stop_machine_cpu_stop smp=1
+[  307.202429] stop_machine_cpu_stop smp=2
+[  307.203764] CPU2: shutdown
+[  307.242622] warning: `main' uses 32-bit capabilities (legacy support in use)
+[  307.321755] CPU2: Booted secondary processor
+[  307.331210] Switched to NOHz mode on CPU #2
+[  307.382081] CPU3: Booted secondary processor
+[  307.391215] Switched to NOHz mode on CPU #3
+[  307.751758] stop_machine_cpu_stop smp=0
+[  307.751766] stop_machine_cpu_stop smp=3
+[  307.751774] stop_machine_cpu_stop smp=2
+[  307.751782] stop_machine_cpu_stop smp=1
+[  307.752739] CPU3: shutdown
+[  307.811661] CPU3: Booted secondary processor
+[  307.821235] Switched to NOHz mode on CPU #3
+[  308.052002] stop_machine_cpu_stop smp=0
+[  308.052010] stop_machine_cpu_stop smp=2
+[  308.052017] stop_machine_cpu_stop smp=1
+[  308.052025] stop_machine_cpu_stop smp=3
+[  308.053011] CPU3: shutdown
+[  308.171835] stop_machine_cpu_stop smp=0
+[  308.171844] stop_machine_cpu_stop smp=1
+[  308.171851] stop_machine_cpu_stop smp=2
+[  308.172809] CPU2: shutdown
+[  308.231440] CPU2: Booted secondary processor
+[  308.241238] Switched to NOHz mode on CPU #2
+[  308.291411] CPU3: Booted secondary processor
+[  308.301237] Switched to NOHz mode on CPU #3
+[  308.411877] stop_machine_cpu_stop smp=0
+[  308.411888] stop_machine_cpu_stop smp=1
+[  308.411897] stop_machine_cpu_stop smp=2
+[  308.411906] stop_machine_cpu_stop smp=3
+[  308.413698] CPU3: shutdown
+[  308.471766] stop_machine_cpu_stop smp=0
+[  308.471776] stop_machine_cpu_stop smp=2
+[  308.471785] stop_machine_cpu_stop smp=1
+[  308.472694] CPU2: shutdown
+[  308.531927] stop_machine_cpu_stop smp=0
+[  308.531935] stop_machine_cpu_stop smp=1
+[  308.532721] CPU1: shutdown
+[  308.711402] CPU1: Booted secondary processor
+[  308.721201] Switched to NOHz mode on CPU #1
+[  308.781499] CPU2: Booted secondary processor
+[  308.791244] Switched to NOHz mode on CPU #2
+[  308.841827] CPU3: Booted secondary processor
+[  308.851469] Switched to NOHz mode on CPU #3
+[  308.962623] stop_machine_cpu_stop smp=0
+[  308.962638] stop_machine_cpu_stop smp=1
+[  308.962652] stop_machine_cpu_stop smp=2
+[  308.962666] stop_machine_cpu_stop smp=3
+[  308.965496] CPU3: shutdown
+[  309.022225] stop_machine_cpu_stop smp=0
+[  309.022241] stop_machine_cpu_stop smp=2
+[  309.022254] stop_machine_cpu_stop smp=1
+[  309.024517] CPU2: shutdown
+[  309.083092] stop_machine_cpu_stop smp=0
+[  309.083107] stop_machine_cpu_stop smp=1
+[  309.084686] CPU1: shutdown
+[  309.446517] bq27541_get_psp status: Charging ret= 0x0181
+[  309.447232] bq27541_get_psp voltage_now= 4021000 uV
+[  309.447876] bq27541_get_capacity = 87% ret= 86
+[  309.448567] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  309.449970] bq27541_get_psp current = -194 mA
+[  309.452153] bq27541_get_capacity = 87% ret= 86
+[  309.452925] bq27541_get_psp voltage_now= 4021000 uV
+[  309.454192] bq27541_get_psp current = -194 mA
+[  309.454963] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  309.455675] bq27541_get_psp status: Charging ret= 0x0181
+[  309.456239] healthd: battery l=87 v=4021 t=28.0 h=2 st=2 c=0 chg=u
+[  309.501380] CPU1: Booted secondary processor
+[  309.511230] Switched to NOHz mode on CPU #1
+[  309.562088] CPU2: Booted secondary processor
+[  309.571236] Switched to NOHz mode on CPU #2
+[  309.613932] smb347_charger: [smb347_config_thermal_charging] temp=28
+[  309.615361] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable
+[  309.621485] CPU3: Booted secondary processor
+[  309.631229] Switched to NOHz mode on CPU #3
+[  309.683468] stop_machine_cpu_stop smp=0
+[  309.683487] stop_machine_cpu_stop smp=2
+[  309.683501] stop_machine_cpu_stop smp=3
+[  309.683708] stop_machine_cpu_stop smp=1
+[  309.685054] CPU3: shutdown
+[  309.741795] stop_machine_cpu_stop smp=0
+[  309.741804] stop_machine_cpu_stop smp=2
+[  309.741820] stop_machine_cpu_stop smp=1
+[  309.742668] CPU2: shutdown
+[  309.861980] stop_machine_cpu_stop smp=0
+[  309.861988] stop_machine_cpu_stop smp=1
+[  309.862760] CPU1: shutdown
+[  309.994310] request_suspend_state: wakeup (3->0) at 309993153002 (2018-05-10 05:42:18.248388001 UTC)
+[  310.008367] CPU1: Booted secondary processor
+[  310.011184] Switched to NOHz mode on CPU #1
+[  310.019821] CPU2: Booted secondary processor
+[  310.022923] Switched to NOHz mode on CPU #2
+[  310.033048] CPU3: Booted secondary processor
+[  310.041221] Switched to NOHz mode on CPU #3
+[  317.101188] dummy0: no IPv6 routers present
+[  317.669384] bq27541_get_capacity = 87% ret= 86
+[  317.670060] bq27541_get_psp voltage_now= 4019000 uV
+[  317.671456] bq27541_get_psp current = -294 mA
+[  317.672182] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  317.672895] bq27541_get_psp status: Charging ret= 0x0181
+[  317.673342] healthd: battery l=87 v=4019 t=28.0 h=2 st=2 c=0 chg=u
+[  317.793241] iio-buffer, current state requested again
+[  317.802432] iio-buffer, current state requested again
+[  318.398220] iio-buffer, current state requested again
+[  318.398528] iio-buffer, current state requested again
+[  320.052337] acc_open
+[  320.052414] acc_release
+[  320.700716] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[  320.703675] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[  320.704656] AP L2->L0
+[  320.705703] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[  320.718950] L0
+[  321.125551] 
+[  321.125558] Dongle Host Driver, version 5.90.195.114
+[  321.125562] Compiled in drivers/net/wireless/bcmdhd on Apr  9 2018 at 13:24:53
+[  321.125856] wl_android_wifi_on in
+[  321.125944] wifi_set_power = 1
+[  321.126047] Powering on wifi
+[  321.427684] =========== WLAN going back to live  ========
+[  321.427782] sdio_reset_comm():
+[  321.703274] dhdsdio_write_vars: Download, Upload and compare of NVRAM succeeded.
+[  321.831359] Wake32 for irq=340
+[  321.831536] Wake32 for irq=340
+[  321.831670] Enabling wake32
+[  321.837992] Firmware up: op_mode=4, Broadcom Dongle Host Driver mac=08:60:6e:33:51:8d
+[  321.874467] Firmware version = wl0: Jan 23 2013 17:47:32 version 5.90.195.114 FWID 01-f9e7e464
+[  321.876222] p2p0: p2p_dev_addr=0a:60:6e:33:51:8d
+[  321.971437] dhd_rx_frame: net device is NOT registered yet. drop packet
+[  321.971686] dhd_rx_frame: net device is NOT registered yet. drop packet
+[  322.007965] init: Starting service 'p2p_supplicant'...
+[  322.265386] tegra_camera tegra_camera: tegra_camera_release
+[  323.003215] usb_net_raw_ip_rx_urb_comp: rx urb d5f45d00 - status -2
+[  323.004438] usb_net_raw_ip_rx_urb_comp: rx urb d5f45e80 - status -2
+[  323.010202] L2
+[  323.067132] dhd_set_suspend: Remove extra suspend setting
+[  323.533328] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[  323.533656] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[  323.565465] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[  323.565820] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[  323.591059] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[  323.592728] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[  323.620200] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[  323.620587] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[  323.651550] nvavp nvavp: using SMMU at ff00000 to load AVP kernel
+[  323.651929] nvavp nvavp: AVP os at vaddr=d8e00000 paddr=ff00000 reset_addr=0ff00094
+[  323.746441] init: Service 'bootanim' (pid 247) exited with status 0
+[  323.775198] tegra_uart tegra_uart.2: Setting clk_src clk_m
+[  323.775776] tegra_uart tegra_uart.2: Setting clk_src clk_m
+[  323.778103] tegra_uart tegra_uart.2: Setting clk_src clk_m
+[  323.792290] tegra_uart tegra_uart.2: Setting clk_src pll_p
+[  323.793422] al3010 debug log : light sensor chip is resumed
+[  323.795376] No, NVIDIA, in fact you CANNOT read from userspace filesystems in the kernel - dmitrygr!
+[  323.797783] al3010 debug log : light sensor chip is resumed
+[  323.809012] init: Starting service 'exec 3 (/system/bin/bootstat)'...
+[  323.865144] init: Service 'exec 3 (/system/bin/bootstat)' (pid 889) exited with status 0
+[  323.866017] init: Starting service 'exec 4 (/system/bin/bootstat)'...
+[  323.905470] init: Service 'exec 4 (/system/bin/bootstat)' (pid 899) exited with status 0
+[  323.906307] init: Starting service 'exec 5 (/system/bin/bootstat)'...
+[  323.935901] init: Service 'exec 5 (/system/bin/bootstat)' (pid 902) exited with status 0
+[  323.936944] init: Starting service 'exec 6 (/system/bin/bootstat)'...
+[  323.979150] init: Service 'exec 6 (/system/bin/bootstat)' (pid 903) exited with status 0
+[  324.197950] tegra_uart tegra_uart.2: Setting clk_src clk_m
+[  324.310496] tegra_uart tegra_uart.2: Setting clk_src pll_p
+[  324.507182] Wake7 for irq=390
+[  324.507288] Enabling wake7
+[  326.005259] wl_bss_connect_done succeeded with 34:31:c4:3b:c0:ae
+[  326.071452] wl_bss_connect_done succeeded with 34:31:c4:3b:c0:ae
+[  326.121336] AP L2->L0
+[  326.132381] L0
+[  326.553522] dhd_set_suspend: Remove extra suspend setting
+[  327.454789] pn544_dev_ioctl power on
+[  327.561262] pn544_dev_ioctl power off
+[  327.671276] pn544_dev_ioctl power on
+[  328.381250] nct1008_get_temp: ret temp=45C 
+[  331.405504] tegra_camera tegra_camera: tegra_camera_open
+[  331.481329] tegra_camera tegra_camera: tegra_camera_release
+[  332.802048] p2p0: no IPv6 routers present
+[  334.692493] binder: undelivered transaction 22678
+[  334.692670] binder: undelivered transaction 22663
+[  336.231235] wlan0: no IPv6 routers present
+[  339.211312] usb_net_raw_ip_rx_urb_comp: rx urb d5f45d00 - status -2
+[  339.211511] usb_net_raw_ip_rx_urb_comp: rx urb d5f45e80 - status -2
+[  339.216346] L2
+[  341.668489] binder: send failed reply for transaction 31086 to 1770:1835
+[  341.732316] binder: release 1770:1791 transaction 30883 in, still active
+[  341.732477] binder: send failed reply for transaction 30883 to 1238:1238
+[  349.801365] AP L2->L0
+[  349.803875] L0
+[  352.001630] usb_net_raw_ip_rx_urb_comp: rx urb d5f45d00 - status -2
+[  352.001862] usb_net_raw_ip_rx_urb_comp: rx urb d5f45e80 - status -2
+[  352.006980] L2
+[  369.766466] bq27541_get_psp status: Charging ret= 0x0181
+[  369.767137] bq27541_get_psp voltage_now= 4011000 uV
+[  369.767808] bq27541_get_capacity = 87% ret= 86
+[  369.768453] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  369.769950] bq27541_get_psp current = -370 mA
+[  369.771465] bq27541_get_capacity = 87% ret= 86
+[  369.773768] bq27541_get_psp voltage_now= 4011000 uV
+[  369.775049] bq27541_get_psp current = -370 mA
+[  369.775725] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  369.776450] bq27541_get_psp status: Charging ret= 0x0181
+[  369.776926] healthd: battery l=87 v=4011 t=28.0 h=2 st=2 c=0 chg=u
+[  369.913956] smb347_charger: [smb347_config_thermal_charging] temp=28
+[  369.914649] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable
+[  370.291897] stop_machine_cpu_stop smp=0
+[  370.291906] stop_machine_cpu_stop smp=1
+[  370.291913] stop_machine_cpu_stop smp=2
+[  370.291921] stop_machine_cpu_stop smp=3
+[  370.292837] CPU3: shutdown
+[  370.351951] stop_machine_cpu_stop smp=2
+[  370.351960] stop_machine_cpu_stop smp=1
+[  370.351967] stop_machine_cpu_stop smp=0
+[  370.352860] CPU2: shutdown
+[  370.412560] stop_machine_cpu_stop smp=0
+[  370.412571] stop_machine_cpu_stop smp=1
+[  370.414459] CPU1: shutdown
+[  370.711633] CPU1: Booted secondary processor
+[  370.721257] Switched to NOHz mode on CPU #1
+[  370.772020] stop_machine_cpu_stop smp=0
+[  370.772028] stop_machine_cpu_stop smp=1
+[  370.772835] CPU1: shutdown
+[  370.891405] CPU1: Booted secondary processor
+[  370.910397] Switched to NOHz mode on CPU #1
+[  370.951551] CPU2: Booted secondary processor
+[  370.961228] Switched to NOHz mode on CPU #2
+[  371.011501] CPU3: Booted secondary processor
+[  371.021236] Switched to NOHz mode on CPU #3
+[  371.372370] stop_machine_cpu_stop smp=0
+[  371.372378] stop_machine_cpu_stop smp=3
+[  371.372384] stop_machine_cpu_stop smp=1
+[  371.372391] stop_machine_cpu_stop smp=2
+[  371.373239] CPU3: shutdown
+[  371.431502] CPU3: Booted secondary processor
+[  371.441249] Switched to NOHz mode on CPU #3
+[  372.031984] stop_machine_cpu_stop smp=0
+[  372.031992] stop_machine_cpu_stop smp=3
+[  372.032000] stop_machine_cpu_stop smp=1
+[  372.032007] stop_machine_cpu_stop smp=2
+[  372.032932] CPU3: shutdown
+[  372.091862] stop_machine_cpu_stop smp=0
+[  372.091870] stop_machine_cpu_stop smp=1
+[  372.091878] stop_machine_cpu_stop smp=2
+[  372.092752] CPU2: shutdown
+[  372.212029] CPU2: Booted secondary processor
+[  372.221239] Switched to NOHz mode on CPU #2
+[  372.271505] CPU3: Booted secondary processor
+[  372.281265] Switched to NOHz mode on CPU #3
+[  372.872369] stop_machine_cpu_stop smp=0
+[  372.872379] stop_machine_cpu_stop smp=1
+[  372.872388] stop_machine_cpu_stop smp=2
+[  372.872397] stop_machine_cpu_stop smp=3
+[  372.873403] CPU3: shutdown
+[  373.051493] CPU3: Booted secondary processor
+[  373.061245] Switched to NOHz mode on CPU #3
+[  373.352406] stop_machine_cpu_stop smp=0
+[  373.352415] stop_machine_cpu_stop smp=1
+[  373.352423] stop_machine_cpu_stop smp=2
+[  373.352430] stop_machine_cpu_stop smp=3
+[  373.353400] CPU3: shutdown
+[  373.414401] stop_machine_cpu_stop smp=0
+[  373.414411] stop_machine_cpu_stop smp=2
+[  373.414420] stop_machine_cpu_stop smp=1
+[  373.415384] CPU2: shutdown
+[  373.471413] CPU2: Booted secondary processor
+[  373.481229] Switched to NOHz mode on CPU #2
+[  373.531489] CPU3: Booted secondary processor
+[  373.541220] Switched to NOHz mode on CPU #3
+[  373.892773] stop_machine_cpu_stop smp=0
+[  373.892782] stop_machine_cpu_stop smp=1
+[  373.892789] stop_machine_cpu_stop smp=3
+[  373.892797] stop_machine_cpu_stop smp=2
+[  373.893751] CPU3: shutdown
+[  373.952102] stop_machine_cpu_stop smp=0
+[  373.952110] stop_machine_cpu_stop smp=1
+[  373.952116] stop_machine_cpu_stop smp=2
+[  373.952905] CPU2: shutdown
+[  374.071438] CPU2: Booted secondary processor
+[  374.081224] Switched to NOHz mode on CPU #2
+[  374.131496] CPU3: Booted secondary processor
+[  374.141229] Switched to NOHz mode on CPU #3
+[  374.371952] stop_machine_cpu_stop smp=0
+[  374.371960] stop_machine_cpu_stop smp=2
+[  374.371968] stop_machine_cpu_stop smp=3
+[  374.371975] stop_machine_cpu_stop smp=1
+[  374.372987] CPU3: shutdown
+[  374.491467] CPU3: Booted secondary processor
+[  374.501219] Switched to NOHz mode on CPU #3
+[  374.851972] stop_machine_cpu_stop smp=0
+[  374.851981] stop_machine_cpu_stop smp=2
+[  374.851988] stop_machine_cpu_stop smp=3
+[  374.851996] stop_machine_cpu_stop smp=1
+[  374.852968] CPU3: shutdown
+[  374.912348] stop_machine_cpu_stop smp=1
+[  374.912355] stop_machine_cpu_stop smp=0
+[  374.912361] stop_machine_cpu_stop smp=2
+[  374.913156] CPU2: shutdown
+[  374.971440] CPU2: Booted secondary processor
+[  374.981224] Switched to NOHz mode on CPU #2
+[  375.031464] CPU3: Booted secondary processor
+[  375.041264] Switched to NOHz mode on CPU #3
+[  375.812031] stop_machine_cpu_stop smp=1
+[  375.812042] stop_machine_cpu_stop smp=3
+[  375.812051] stop_machine_cpu_stop smp=2
+[  375.812060] stop_machine_cpu_stop smp=0
+[  375.813160] CPU3: shutdown
+[  375.931491] CPU3: Booted secondary processor
+[  375.941262] Switched to NOHz mode on CPU #3
+[  376.172830] stop_machine_cpu_stop smp=0
+[  376.172847] stop_machine_cpu_stop smp=1
+[  376.172861] stop_machine_cpu_stop smp=3
+[  376.172875] stop_machine_cpu_stop smp=2
+[  376.174595] CPU3: shutdown
+[  376.232025] stop_machine_cpu_stop smp=0
+[  376.232040] stop_machine_cpu_stop smp=1
+[  376.232054] stop_machine_cpu_stop smp=2
+[  376.233414] CPU2: shutdown
+[  376.292239] stop_machine_cpu_stop smp=0
+[  376.292254] stop_machine_cpu_stop smp=1
+[  376.293322] CPU1: shutdown
+[  377.191415] CPU1: Booted secondary processor
+[  377.201227] Switched to NOHz mode on CPU #1
+[  377.271653] CPU2: Booted secondary processor
+[  377.281256] Switched to NOHz mode on CPU #2
+[  377.331472] CPU3: Booted secondary processor
+[  377.341222] Switched to NOHz mode on CPU #3
+[  377.811848] stop_machine_cpu_stop smp=0
+[  377.811856] stop_machine_cpu_stop smp=2
+[  377.811864] stop_machine_cpu_stop smp=3
+[  377.811872] stop_machine_cpu_stop smp=1
+[  377.812808] CPU3: shutdown
+[  377.871847] stop_machine_cpu_stop smp=0
+[  377.871857] stop_machine_cpu_stop smp=2
+[  377.871865] stop_machine_cpu_stop smp=1
+[  377.872805] CPU2: shutdown
+[  377.931441] CPU2: Booted secondary processor
+[  377.941215] Switched to NOHz mode on CPU #2
+[  377.991455] CPU3: Booted secondary processor
+[  378.001246] Switched to NOHz mode on CPU #3
+[  378.292359] stop_machine_cpu_stop smp=1
+[  378.292366] stop_machine_cpu_stop smp=2
+[  378.292372] stop_machine_cpu_stop smp=0
+[  378.292378] stop_machine_cpu_stop smp=3
+[  378.293262] CPU3: shutdown
+[  378.351414] CPU3: Booted secondary processor
+[  378.361259] Switched to NOHz mode on CPU #3
+[  378.532475] stop_machine_cpu_stop smp=3
+[  378.532481] stop_machine_cpu_stop smp=0
+[  378.532488] stop_machine_cpu_stop smp=1
+[  378.532494] stop_machine_cpu_stop smp=2
+[  378.533333] CPU3: shutdown
+[  378.591531] CPU3: Booted secondary processor
+[  378.601276] Switched to NOHz mode on CPU #3
+[  379.132250] stop_machine_cpu_stop smp=1
+[  379.132261] stop_machine_cpu_stop smp=2
+[  379.132270] stop_machine_cpu_stop smp=3
+[  379.132279] stop_machine_cpu_stop smp=0
+[  379.133379] CPU3: shutdown
+[  379.191422] CPU3: Booted secondary processor
+[  379.201252] Switched to NOHz mode on CPU #3
+[  380.272544] stop_machine_cpu_stop smp=1
+[  380.272551] stop_machine_cpu_stop smp=0
+[  380.272558] stop_machine_cpu_stop smp=3
+[  380.272564] stop_machine_cpu_stop smp=2
+[  380.273449] CPU3: shutdown
+[  380.331525] CPU3: Booted secondary processor
+[  380.341268] Switched to NOHz mode on CPU #3
+[  380.512064] stop_machine_cpu_stop smp=0
+[  380.512072] stop_machine_cpu_stop smp=1
+[  380.512080] stop_machine_cpu_stop smp=2
+[  380.512088] stop_machine_cpu_stop smp=3
+[  380.513006] CPU3: shutdown
+[  380.571458] CPU3: Booted secondary processor
+[  380.581256] Switched to NOHz mode on CPU #3
+[  381.112405] stop_machine_cpu_stop smp=1
+[  381.112412] stop_machine_cpu_stop smp=2
+[  381.112419] stop_machine_cpu_stop smp=3
+[  381.112425] stop_machine_cpu_stop smp=0
+[  381.113259] CPU3: shutdown
+[  381.171429] CPU3: Booted secondary processor
+[  381.181237] Switched to NOHz mode on CPU #3
+[  381.472136] stop_machine_cpu_stop smp=1
+[  381.472143] stop_machine_cpu_stop smp=2
+[  381.472149] stop_machine_cpu_stop smp=0
+[  381.472156] stop_machine_cpu_stop smp=3
+[  381.473027] CPU3: shutdown
+[  381.531443] CPU3: Booted secondary processor
+[  381.541236] Switched to NOHz mode on CPU #3
+[  382.252310] stop_machine_cpu_stop smp=1
+[  382.252317] stop_machine_cpu_stop smp=2
+[  382.252323] stop_machine_cpu_stop smp=0
+[  382.252330] stop_machine_cpu_stop smp=3
+[  382.253169] CPU3: shutdown
+[  382.311492] CPU3: Booted secondary processor
+[  382.321237] Switched to NOHz mode on CPU #3
+[  382.671912] stop_machine_cpu_stop smp=0
+[  382.671921] stop_machine_cpu_stop smp=2
+[  382.671928] stop_machine_cpu_stop smp=1
+[  382.671936] stop_machine_cpu_stop smp=3
+[  382.672863] CPU3: shutdown
+[  382.731449] CPU3: Booted secondary processor
+[  382.741251] Switched to NOHz mode on CPU #3
+[  383.512075] stop_machine_cpu_stop smp=0
+[  383.512084] stop_machine_cpu_stop smp=1
+[  383.512091] stop_machine_cpu_stop smp=3
+[  383.512099] stop_machine_cpu_stop smp=2
+[  383.513035] CPU3: shutdown
+[  383.572451] stop_machine_cpu_stop smp=0
+[  383.572461] stop_machine_cpu_stop smp=1
+[  383.572470] stop_machine_cpu_stop smp=2
+[  383.573495] CPU2: shutdown
+[  383.691428] CPU2: Booted secondary processor
+[  383.701219] Switched to NOHz mode on CPU #2
+[  383.751427] CPU3: Booted secondary processor
+[  383.761228] Switched to NOHz mode on CPU #3
+[  384.052218] stop_machine_cpu_stop smp=0
+[  384.052229] stop_machine_cpu_stop smp=1
+[  384.052238] stop_machine_cpu_stop smp=3
+[  384.052248] stop_machine_cpu_stop smp=2
+[  384.053407] CPU3: shutdown
+[  384.112179] stop_machine_cpu_stop smp=0
+[  384.112188] stop_machine_cpu_stop smp=2
+[  384.112196] stop_machine_cpu_stop smp=1
+[  384.113064] CPU2: shutdown
+[  384.171478] CPU2: Booted secondary processor
+[  384.181231] Switched to NOHz mode on CPU #2
+[  384.231466] CPU3: Booted secondary processor
+[  384.241254] Switched to NOHz mode on CPU #3
+[  384.542347] stop_machine_cpu_stop smp=1
+[  384.542354] stop_machine_cpu_stop smp=0
+[  384.542361] stop_machine_cpu_stop smp=3
+[  384.542368] stop_machine_cpu_stop smp=2
+[  384.543389] CPU3: shutdown
+[  384.601482] CPU3: Booted secondary processor
+[  384.611257] Switched to NOHz mode on CPU #3
+[  385.261895] stop_machine_cpu_stop smp=0
+[  385.261904] stop_machine_cpu_stop smp=1
+[  385.261912] stop_machine_cpu_stop smp=2
+[  385.261919] stop_machine_cpu_stop smp=3
+[  385.263241] CPU3: shutdown
+[  385.321452] CPU3: Booted secondary processor
+[  385.331249] Switched to NOHz mode on CPU #3
+[  385.741838] stop_machine_cpu_stop smp=0
+[  385.741847] stop_machine_cpu_stop smp=2
+[  385.741854] stop_machine_cpu_stop smp=3
+[  385.741862] stop_machine_cpu_stop smp=1
+[  385.742846] CPU3: shutdown
+[  385.802747] stop_machine_cpu_stop smp=0
+[  385.802763] stop_machine_cpu_stop smp=1
+[  385.802778] stop_machine_cpu_stop smp=2
+[  385.804391] CPU2: shutdown
+[  385.861449] CPU2: Booted secondary processor
+[  385.871215] Switched to NOHz mode on CPU #2
+[  385.921516] CPU3: Booted secondary processor
+[  385.931218] Switched to NOHz mode on CPU #3
+[  386.822086] stop_machine_cpu_stop smp=1
+[  386.822095] stop_machine_cpu_stop smp=3
+[  386.822102] stop_machine_cpu_stop smp=0
+[  386.822110] stop_machine_cpu_stop smp=2
+[  386.823052] CPU3: shutdown
+[  386.881530] CPU3: Booted secondary processor
+[  386.891245] Switched to NOHz mode on CPU #3
+[  387.962163] stop_machine_cpu_stop smp=1
+[  387.962171] stop_machine_cpu_stop smp=2
+[  387.962177] stop_machine_cpu_stop smp=0
+[  387.962183] stop_machine_cpu_stop smp=3
+[  387.963013] CPU3: shutdown
+[  388.021460] CPU3: Booted secondary processor
+[  388.031261] Switched to NOHz mode on CPU #3
+[  388.102175] stop_machine_cpu_stop smp=0
+[  388.102181] stop_machine_cpu_stop smp=1
+[  388.102188] stop_machine_cpu_stop smp=2
+[  388.102194] stop_machine_cpu_stop smp=3
+[  388.103040] CPU1: shutdown
+[  388.201432] CPU1: Booted secondary processor
+[  388.211234] Switched to NOHz mode on CPU #1
+[  389.581943] stop_machine_cpu_stop smp=1
+[  389.581951] stop_machine_cpu_stop smp=2
+[  389.581958] stop_machine_cpu_stop smp=0
+[  389.581965] stop_machine_cpu_stop smp=3
+[  389.582887] CPU3: shutdown
+[  389.642441] stop_machine_cpu_stop smp=0
+[  389.642449] stop_machine_cpu_stop smp=1
+[  389.642455] stop_machine_cpu_stop smp=2
+[  389.643234] CPU2: shutdown
+[  389.701418] CPU2: Booted secondary processor
+[  389.711231] Switched to NOHz mode on CPU #2
+[  389.761470] CPU3: Booted secondary processor
+[  389.771244] Switched to NOHz mode on CPU #3
+[  390.122245] stop_machine_cpu_stop smp=1
+[  390.122253] stop_machine_cpu_stop smp=2
+[  390.122259] stop_machine_cpu_stop smp=3
+[  390.122265] stop_machine_cpu_stop smp=0
+[  390.123110] CPU3: shutdown
+[  390.181624] CPU3: Booted secondary processor
+[  390.191256] Switched to NOHz mode on CPU #3
+[  390.421893] stop_machine_cpu_stop smp=0
+[  390.421902] stop_machine_cpu_stop smp=1
+[  390.421909] stop_machine_cpu_stop smp=3
+[  390.421917] stop_machine_cpu_stop smp=2
+[  390.422940] CPU3: shutdown
+[  390.481440] CPU3: Booted secondary processor
+[  390.491243] Switched to NOHz mode on CPU #3
+[  391.202072] stop_machine_cpu_stop smp=0
+[  391.202081] stop_machine_cpu_stop smp=2
+[  391.202088] stop_machine_cpu_stop smp=1
+[  391.202166] stop_machine_cpu_stop smp=3
+[  391.203055] CPU3: shutdown
+[  391.322280] CPU3: Booted secondary processor
+[  391.331227] Switched to NOHz mode on CPU #3
+[  391.682206] stop_machine_cpu_stop smp=0
+[  391.682215] stop_machine_cpu_stop smp=1
+[  391.682223] stop_machine_cpu_stop smp=2
+[  391.682231] stop_machine_cpu_stop smp=3
+[  391.683152] CPU3: shutdown
+[  391.741515] CPU3: Booted secondary processor
+[  391.751249] Switched to NOHz mode on CPU #3
+[  391.862206] stop_machine_cpu_stop smp=0
+[  391.862214] stop_machine_cpu_stop smp=1
+[  391.862221] stop_machine_cpu_stop smp=3
+[  391.862227] stop_machine_cpu_stop smp=2
+[  391.863119] CPU3: shutdown
+[  391.981481] CPU3: Booted secondary processor
+[  391.991248] Switched to NOHz mode on CPU #3
+[  392.521953] stop_machine_cpu_stop smp=0
+[  392.521961] stop_machine_cpu_stop smp=1
+[  392.521969] stop_machine_cpu_stop smp=2
+[  392.521977] stop_machine_cpu_stop smp=3
+[  392.522915] CPU3: shutdown
+[  392.641490] CPU3: Booted secondary processor
+[  392.651264] Switched to NOHz mode on CPU #3
+[  393.061983] stop_machine_cpu_stop smp=0
+[  393.061991] stop_machine_cpu_stop smp=3
+[  393.061998] stop_machine_cpu_stop smp=1
+[  393.062005] stop_machine_cpu_stop smp=2
+[  393.062927] CPU3: shutdown
+[  393.122415] stop_machine_cpu_stop smp=0
+[  393.122423] stop_machine_cpu_stop smp=2
+[  393.122429] stop_machine_cpu_stop smp=1
+[  393.123221] CPU2: shutdown
+[  393.181450] CPU2: Booted secondary processor
+[  393.191239] Switched to NOHz mode on CPU #2
+[  393.241475] CPU3: Booted secondary processor
+[  393.251241] Switched to NOHz mode on CPU #3
+[  393.481766] stop_machine_cpu_stop smp=0
+[  393.481775] stop_machine_cpu_stop smp=1
+[  393.481782] stop_machine_cpu_stop smp=3
+[  393.481790] stop_machine_cpu_stop smp=2
+[  393.482778] CPU3: shutdown
+[  393.541436] CPU3: Booted secondary processor
+[  393.551278] Switched to NOHz mode on CPU #3
+[  394.271856] stop_machine_cpu_stop smp=1
+[  394.271872] stop_machine_cpu_stop smp=0
+[  394.271887] stop_machine_cpu_stop smp=3
+[  394.271902] stop_machine_cpu_stop smp=2
+[  394.273675] CPU3: shutdown
+[  394.331435] CPU3: Booted secondary processor
+[  394.341250] Switched to NOHz mode on CPU #3
+[  395.591940] stop_machine_cpu_stop smp=0
+[  395.591949] stop_machine_cpu_stop smp=1
+[  395.591956] stop_machine_cpu_stop smp=2
+[  395.591963] stop_machine_cpu_stop smp=3
+[  395.592823] CPU3: shutdown
+[  395.711441] CPU3: Booted secondary processor
+[  395.721236] Switched to NOHz mode on CPU #3
+[  396.071985] stop_machine_cpu_stop smp=0
+[  396.071993] stop_machine_cpu_stop smp=3
+[  396.072001] stop_machine_cpu_stop smp=2
+[  396.072009] stop_machine_cpu_stop smp=1
+[  396.072941] CPU3: shutdown
+[  396.191787] CPU3: Booted secondary processor
+[  396.201251] Switched to NOHz mode on CPU #3
+[  396.911952] stop_machine_cpu_stop smp=0
+[  396.911962] stop_machine_cpu_stop smp=2
+[  396.911970] stop_machine_cpu_stop smp=1
+[  396.911977] stop_machine_cpu_stop smp=3
+[  396.912963] CPU3: shutdown
+[  397.031477] CPU3: Booted secondary processor
+[  397.041226] Switched to NOHz mode on CPU #3
+[  397.101925] stop_machine_cpu_stop smp=0
+[  397.101931] stop_machine_cpu_stop smp=2
+[  397.101938] stop_machine_cpu_stop smp=1
+[  397.101944] stop_machine_cpu_stop smp=3
+[  397.102752] CPU1: shutdown
+[  397.151608] CPU1: Booted secondary processor
+[  397.161233] Switched to NOHz mode on CPU #1
+[  397.751955] stop_machine_cpu_stop smp=1
+[  397.751964] stop_machine_cpu_stop smp=2
+[  397.751972] stop_machine_cpu_stop smp=3
+[  397.751979] stop_machine_cpu_stop smp=0
+[  397.752892] CPU3: shutdown
+[  397.811418] CPU3: Booted secondary processor
+[  397.821270] Switched to NOHz mode on CPU #3
+[  399.012301] stop_machine_cpu_stop smp=0
+[  399.012309] stop_machine_cpu_stop smp=1
+[  399.012316] stop_machine_cpu_stop smp=3
+[  399.012322] stop_machine_cpu_stop smp=2
+[  399.013215] CPU3: shutdown
+[  399.131889] stop_machine_cpu_stop smp=0
+[  399.131897] stop_machine_cpu_stop smp=2
+[  399.131904] stop_machine_cpu_stop smp=1
+[  399.132911] CPU2: shutdown
+[  399.251497] CPU2: Booted secondary processor
+[  399.261249] Switched to NOHz mode on CPU #2
+[  399.311506] CPU3: Booted secondary processor
+[  399.321270] Switched to NOHz mode on CPU #3
+[  399.492072] stop_machine_cpu_stop smp=1
+[  399.492080] stop_machine_cpu_stop smp=0
+[  399.492088] stop_machine_cpu_stop smp=3
+[  399.492095] stop_machine_cpu_stop smp=2
+[  399.493001] CPU3: shutdown
+[  399.551459] CPU3: Booted secondary processor
+[  399.561263] Switched to NOHz mode on CPU #3
+[  399.853044] stop_machine_cpu_stop smp=1
+[  399.853051] stop_machine_cpu_stop smp=2
+[  399.853057] stop_machine_cpu_stop smp=0
+[  399.853063] stop_machine_cpu_stop smp=3
+[  399.853928] CPU3: shutdown
+[  399.911784] CPU3: Booted secondary processor
+[  399.921239] Switched to NOHz mode on CPU #3
+[  400.331879] stop_machine_cpu_stop smp=0
+[  400.331887] stop_machine_cpu_stop smp=3
+[  400.331895] stop_machine_cpu_stop smp=1
+[  400.331902] stop_machine_cpu_stop smp=2
+[  400.332878] CPU3: shutdown
+[  400.391522] CPU3: Booted secondary processor
+[  400.401223] Switched to NOHz mode on CPU #3
+[  401.591970] stop_machine_cpu_stop smp=0
+[  401.591979] stop_machine_cpu_stop smp=3
+[  401.591986] stop_machine_cpu_stop smp=1
+[  401.591994] stop_machine_cpu_stop smp=2
+[  401.592914] CPU3: shutdown
+[  401.651427] CPU3: Booted secondary processor
+[  401.661219] Switched to NOHz mode on CPU #3
+[  402.102049] stop_machine_cpu_stop smp=0
+[  402.102055] stop_machine_cpu_stop smp=1
+[  402.102061] stop_machine_cpu_stop smp=3
+[  402.102067] stop_machine_cpu_stop smp=2
+[  402.102876] CPU3: shutdown
+[  402.191424] CPU3: Booted secondary processor
+[  402.201254] Switched to NOHz mode on CPU #3
+[  402.972019] stop_machine_cpu_stop smp=1
+[  402.972027] stop_machine_cpu_stop smp=2
+[  402.972034] stop_machine_cpu_stop smp=3
+[  402.972041] stop_machine_cpu_stop smp=0
+[  402.973039] CPU3: shutdown
+[  403.091514] CPU3: Booted secondary processor
+[  403.101224] Switched to NOHz mode on CPU #3
+[  403.102199] stop_machine_cpu_stop smp=1
+[  403.102206] stop_machine_cpu_stop smp=2
+[  403.102212] stop_machine_cpu_stop smp=0
+[  403.102218] stop_machine_cpu_stop smp=3
+[  403.103011] CPU1: shutdown
+[  403.151510] CPU1: Booted secondary processor
+[  403.161221] Switched to NOHz mode on CPU #1
+[  403.332017] stop_machine_cpu_stop smp=0
+[  403.332025] stop_machine_cpu_stop smp=3
+[  403.332033] stop_machine_cpu_stop smp=2
+[  403.332040] stop_machine_cpu_stop smp=1
+[  403.332957] CPU3: shutdown
+[  403.391960] stop_machine_cpu_stop smp=0
+[  403.391970] stop_machine_cpu_stop smp=2
+[  403.391979] stop_machine_cpu_stop smp=1
+[  403.392932] CPU2: shutdown
+[  403.451432] CPU2: Booted secondary processor
+[  403.461233] Switched to NOHz mode on CPU #2
+[  403.511468] CPU3: Booted secondary processor
+[  403.521251] Switched to NOHz mode on CPU #3
+[  404.232047] stop_machine_cpu_stop smp=0
+[  404.232055] stop_machine_cpu_stop smp=1
+[  404.232061] stop_machine_cpu_stop smp=2
+[  404.232067] stop_machine_cpu_stop smp=3
+[  404.232967] CPU3: shutdown
+[  404.351488] CPU3: Booted secondary processor
+[  404.361267] Switched to NOHz mode on CPU #3
+[  404.712607] stop_machine_cpu_stop smp=0
+[  404.712616] stop_machine_cpu_stop smp=1
+[  404.712623] stop_machine_cpu_stop smp=2
+[  404.712631] stop_machine_cpu_stop smp=3
+[  404.713589] CPU3: shutdown
+[  404.772131] stop_machine_cpu_stop smp=1
+[  404.772138] stop_machine_cpu_stop smp=2
+[  404.772144] stop_machine_cpu_stop smp=0
+[  404.772926] CPU2: shutdown
+[  404.831484] CPU2: Booted secondary processor
+[  404.841247] Switched to NOHz mode on CPU #2
+[  404.891516] CPU3: Booted secondary processor
+[  404.901221] Switched to NOHz mode on CPU #3
+[  405.252410] stop_machine_cpu_stop smp=0
+[  405.252419] stop_machine_cpu_stop smp=2
+[  405.252427] stop_machine_cpu_stop smp=3
+[  405.252434] stop_machine_cpu_stop smp=1
+[  405.253401] CPU3: shutdown
+[  405.312507] stop_machine_cpu_stop smp=0
+[  405.312514] stop_machine_cpu_stop smp=1
+[  405.312521] stop_machine_cpu_stop smp=2
+[  405.313317] CPU2: shutdown
+[  405.372621] CPU2: Booted secondary processor
+[  405.381220] Switched to NOHz mode on CPU #2
+[  405.431462] CPU3: Booted secondary processor
+[  405.441262] Switched to NOHz mode on CPU #3
+[  405.852421] stop_machine_cpu_stop smp=0
+[  405.852433] stop_machine_cpu_stop smp=2
+[  405.852441] stop_machine_cpu_stop smp=1
+[  405.852450] stop_machine_cpu_stop smp=3
+[  405.853554] CPU3: shutdown
+[  405.911547] CPU3: Booted secondary processor
+[  405.921247] Switched to NOHz mode on CPU #3
+[  408.552057] stop_machine_cpu_stop smp=0
+[  408.552065] stop_machine_cpu_stop smp=2
+[  408.552072] stop_machine_cpu_stop smp=1
+[  408.552078] stop_machine_cpu_stop smp=3
+[  408.553168] CPU3: shutdown
+[  408.611942] CPU3: Booted secondary processor
+[  408.621237] Switched to NOHz mode on CPU #3
+[  409.102676] stop_machine_cpu_stop smp=0
+[  409.102683] stop_machine_cpu_stop smp=3
+[  409.102689] stop_machine_cpu_stop smp=2
+[  409.102695] stop_machine_cpu_stop smp=1
+[  409.103506] CPU3: shutdown
+[  409.151481] CPU3: Booted secondary processor
+[  409.161250] Switched to NOHz mode on CPU #3
+[  409.512178] stop_machine_cpu_stop smp=0
+[  409.512187] stop_machine_cpu_stop smp=1
+[  409.512194] stop_machine_cpu_stop smp=2
+[  409.512200] stop_machine_cpu_stop smp=3
+[  409.513138] CPU3: shutdown
+[  409.571475] CPU3: Booted secondary processor
+[  409.581261] Switched to NOHz mode on CPU #3
+[  409.991919] stop_machine_cpu_stop smp=0
+[  409.991928] stop_machine_cpu_stop smp=2
+[  409.991936] stop_machine_cpu_stop smp=1
+[  409.991944] stop_machine_cpu_stop smp=3
+[  409.992878] CPU3: shutdown
+[  410.051836] stop_machine_cpu_stop smp=0
+[  410.051846] stop_machine_cpu_stop smp=1
+[  410.051855] stop_machine_cpu_stop smp=2
+[  410.052841] CPU2: shutdown
+[  410.111426] CPU2: Booted secondary processor
+[  410.121212] Switched to NOHz mode on CPU #2
+[  410.171733] CPU3: Booted secondary processor
+[  410.181286] Switched to NOHz mode on CPU #3
+[  410.301997] stop_machine_cpu_stop smp=0
+[  410.302007] stop_machine_cpu_stop smp=3
+[  410.302017] stop_machine_cpu_stop smp=2
+[  410.302026] stop_machine_cpu_stop smp=1
+[  410.303214] CPU3: shutdown
+[  410.361888] stop_machine_cpu_stop smp=0
+[  410.361897] stop_machine_cpu_stop smp=1
+[  410.361904] stop_machine_cpu_stop smp=2
+[  410.363378] CPU2: shutdown
+[  410.421423] CPU2: Booted secondary processor
+[  410.431239] Switched to NOHz mode on CPU #2
+[  410.491496] CPU3: Booted secondary processor
+[  410.501265] Switched to NOHz mode on CPU #3
+[  411.691956] stop_machine_cpu_stop smp=1
+[  411.691964] stop_machine_cpu_stop smp=2
+[  411.691971] stop_machine_cpu_stop smp=0
+[  411.691979] stop_machine_cpu_stop smp=3
+[  411.692896] CPU3: shutdown
+[  411.751482] CPU3: Booted secondary processor
+[  411.761240] Switched to NOHz mode on CPU #3
+[  412.472110] stop_machine_cpu_stop smp=1
+[  412.472119] stop_machine_cpu_stop smp=3
+[  412.472127] stop_machine_cpu_stop smp=2
+[  412.472134] stop_machine_cpu_stop smp=0
+[  412.473121] CPU3: shutdown
+[  412.531505] CPU3: Booted secondary processor
+[  412.541267] Switched to NOHz mode on CPU #3
+[  413.311940] stop_machine_cpu_stop smp=0
+[  413.311949] stop_machine_cpu_stop smp=1
+[  413.311956] stop_machine_cpu_stop smp=2
+[  413.311964] stop_machine_cpu_stop smp=3
+[  413.312883] CPU3: shutdown
+[  413.371467] CPU3: Booted secondary processor
+[  413.381275] Switched to NOHz mode on CPU #3
+[  414.213667] stop_machine_cpu_stop smp=0
+[  414.213676] stop_machine_cpu_stop smp=1
+[  414.213684] stop_machine_cpu_stop smp=2
+[  414.213691] stop_machine_cpu_stop smp=3
+[  414.214632] CPU3: shutdown
+[  414.272527] CPU3: Booted secondary processor
+[  414.281237] Switched to NOHz mode on CPU #3
+[  414.692171] stop_machine_cpu_stop smp=0
+[  414.692180] stop_machine_cpu_stop smp=1
+[  414.692186] stop_machine_cpu_stop smp=3
+[  414.692193] stop_machine_cpu_stop smp=2
+[  414.693114] CPU3: shutdown
+[  414.751938] stop_machine_cpu_stop smp=0
+[  414.751946] stop_machine_cpu_stop smp=1
+[  414.751954] stop_machine_cpu_stop smp=2
+[  414.752828] CPU2: shutdown
+[  414.811428] CPU2: Booted secondary processor
+[  414.821234] Switched to NOHz mode on CPU #2
+[  414.871495] CPU3: Booted secondary processor
+[  414.881224] Switched to NOHz mode on CPU #3
+[  415.292097] stop_machine_cpu_stop smp=1
+[  415.292105] stop_machine_cpu_stop smp=2
+[  415.292112] stop_machine_cpu_stop smp=3
+[  415.292118] stop_machine_cpu_stop smp=0
+[  415.293080] CPU3: shutdown
+[  415.351948] CPU3: Booted secondary processor
+[  415.361254] Switched to NOHz mode on CPU #3
+[  418.232308] stop_machine_cpu_stop smp=0
+[  418.232316] stop_machine_cpu_stop smp=3
+[  418.232323] stop_machine_cpu_stop smp=2
+[  418.232331] stop_machine_cpu_stop smp=1
+[  418.233258] CPU3: shutdown
+[  418.292050] stop_machine_cpu_stop smp=0
+[  418.292058] stop_machine_cpu_stop smp=1
+[  418.292064] stop_machine_cpu_stop smp=2
+[  418.292884] CPU2: shutdown
+[  418.351433] CPU2: Booted secondary processor
+[  418.361223] Switched to NOHz mode on CPU #2
+[  418.411468] CPU3: Booted secondary processor
+[  418.421233] Switched to NOHz mode on CPU #3
+[  418.772159] stop_machine_cpu_stop smp=0
+[  418.772168] stop_machine_cpu_stop smp=1
+[  418.772175] stop_machine_cpu_stop smp=2
+[  418.772183] stop_machine_cpu_stop smp=3
+[  418.773357] CPU3: shutdown
+[  418.831992] stop_machine_cpu_stop smp=0
+[  418.831999] stop_machine_cpu_stop smp=1
+[  418.832005] stop_machine_cpu_stop smp=2
+[  418.832794] CPU2: shutdown
+[  418.891495] CPU2: Booted secondary processor
+[  418.901219] Switched to NOHz mode on CPU #2
+[  418.951456] CPU3: Booted secondary processor
+[  418.961257] Switched to NOHz mode on CPU #3
+[  420.032414] stop_machine_cpu_stop smp=0
+[  420.032423] stop_machine_cpu_stop smp=1
+[  420.032430] stop_machine_cpu_stop smp=3
+[  420.032437] stop_machine_cpu_stop smp=2
+[  420.033384] CPU3: shutdown
+[  420.091489] CPU3: Booted secondary processor
+[  420.101239] Switched to NOHz mode on CPU #3
+[  420.102081] stop_machine_cpu_stop smp=1
+[  420.102088] stop_machine_cpu_stop smp=0
+[  420.102093] stop_machine_cpu_stop smp=2
+[  420.102100] stop_machine_cpu_stop smp=3
+[  420.102902] CPU1: shutdown
+[  420.151547] CPU1: Booted secondary processor
+[  420.161244] Switched to NOHz mode on CPU #1
+[  421.051993] stop_machine_cpu_stop smp=0
+[  421.052002] stop_machine_cpu_stop smp=3
+[  421.052009] stop_machine_cpu_stop smp=1
+[  421.052017] stop_machine_cpu_stop smp=2
+[  421.053030] CPU3: shutdown
+[  421.101487] CPU3: Booted secondary processor
+[  421.111260] Switched to NOHz mode on CPU #3
+[  422.132093] stop_machine_cpu_stop smp=1
+[  422.132103] stop_machine_cpu_stop smp=0
+[  422.132113] stop_machine_cpu_stop smp=3
+[  422.132123] stop_machine_cpu_stop smp=2
+[  422.133231] CPU3: shutdown
+[  422.191580] CPU3: Booted secondary processor
+[  422.201239] Switched to NOHz mode on CPU #3
+[  422.611976] stop_machine_cpu_stop smp=1
+[  422.611983] stop_machine_cpu_stop smp=0
+[  422.611991] stop_machine_cpu_stop smp=2
+[  422.611998] stop_machine_cpu_stop smp=3
+[  422.613229] CPU3: shutdown
+[  422.671488] CPU3: Booted secondary processor
+[  422.681253] Switched to NOHz mode on CPU #3
+[  422.792032] stop_machine_cpu_stop smp=0
+[  422.792039] stop_machine_cpu_stop smp=1
+[  422.792045] stop_machine_cpu_stop smp=3
+[  422.792052] stop_machine_cpu_stop smp=2
+[  422.792937] CPU3: shutdown
+[  422.851443] CPU3: Booted secondary processor
+[  422.861228] Switched to NOHz mode on CPU #3
+[  423.211918] stop_machine_cpu_stop smp=0
+[  423.211927] stop_machine_cpu_stop smp=1
+[  423.211934] stop_machine_cpu_stop smp=2
+[  423.211941] stop_machine_cpu_stop smp=3
+[  423.212877] CPU3: shutdown
+[  423.271965] stop_machine_cpu_stop smp=0
+[  423.271973] stop_machine_cpu_stop smp=1
+[  423.271979] stop_machine_cpu_stop smp=2
+[  423.272752] CPU2: shutdown
+[  423.331708] CPU2: Booted secondary processor
+[  423.341219] Switched to NOHz mode on CPU #2
+[  423.391495] CPU3: Booted secondary processor
+[  423.401238] Switched to NOHz mode on CPU #3
+[  423.692117] stop_machine_cpu_stop smp=0
+[  423.692126] stop_machine_cpu_stop smp=1
+[  423.692133] stop_machine_cpu_stop smp=2
+[  423.692141] stop_machine_cpu_stop smp=3
+[  423.693083] CPU3: shutdown
+[  423.751438] CPU3: Booted secondary processor
+[  423.761267] Switched to NOHz mode on CPU #3
+[  423.932118] stop_machine_cpu_stop smp=3
+[  423.932126] stop_machine_cpu_stop smp=0
+[  423.932132] stop_machine_cpu_stop smp=2
+[  423.932139] stop_machine_cpu_stop smp=1
+[  423.932974] CPU3: shutdown
+[  423.991442] CPU3: Booted secondary processor
+[  424.001331] Switched to NOHz mode on CPU #3
+[  425.432469] stop_machine_cpu_stop smp=0
+[  425.432477] stop_machine_cpu_stop smp=3
+[  425.432483] stop_machine_cpu_stop smp=1
+[  425.432490] stop_machine_cpu_stop smp=2
+[  425.433387] CPU3: shutdown
+[  425.491452] CPU3: Booted secondary processor
+[  425.501273] Switched to NOHz mode on CPU #3
+[  426.272665] stop_machine_cpu_stop smp=0
+[  426.272674] stop_machine_cpu_stop smp=3
+[  426.272682] stop_machine_cpu_stop smp=1
+[  426.272689] stop_machine_cpu_stop smp=2
+[  426.273615] CPU3: shutdown
+[  426.331945] stop_machine_cpu_stop smp=0
+[  426.331953] stop_machine_cpu_stop smp=1
+[  426.331961] stop_machine_cpu_stop smp=2
+[  426.332828] CPU2: shutdown
+[  426.391427] CPU2: Booted secondary processor
+[  426.401252] Switched to NOHz mode on CPU #2
+[  426.451488] CPU3: Booted secondary processor
+[  426.461266] Switched to NOHz mode on CPU #3
+[  428.251822] stop_machine_cpu_stop smp=0
+[  428.251831] stop_machine_cpu_stop smp=2
+[  428.251838] stop_machine_cpu_stop smp=3
+[  428.251845] stop_machine_cpu_stop smp=1
+[  428.252790] CPU3: shutdown
+[  428.311478] CPU3: Booted secondary processor
+[  428.321247] Switched to NOHz mode on CPU #3
+[  429.932091] stop_machine_cpu_stop smp=0
+[  429.932100] stop_machine_cpu_stop smp=1
+[  429.932107] stop_machine_cpu_stop smp=2
+[  429.932114] stop_machine_cpu_stop smp=3
+[  429.933123] bq27541_get_psp status: Charging ret= 0x0181
+[  429.933267] CPU3: shutdown
+[  429.934702] bq27541_get_psp voltage_now= 4000000 uV
+[  429.935521] bq27541_get_capacity = 86% ret= 85
+[  429.936412] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  429.937805] bq27541_get_psp current = -453 mA
+[  429.939294] bq27541_get_capacity = 86% ret= 85
+[  429.940116] bq27541_get_psp voltage_now= 4000000 uV
+[  429.942415] bq27541_get_psp current = -453 mA
+[  429.943152] bq27541_get_psp temperature= 280 (0.1¢XC)
+[  429.943920] bq27541_get_psp status: Charging ret= 0x0181
+[  429.944435] healthd: battery l=86 v=4000 t=28.0 h=2 st=2 c=0 chg=u
+[  429.991477] CPU3: Booted secondary processor
+[  430.001225] Switched to NOHz mode on CPU #3
+[  430.113686] smb347_charger: [smb347_config_thermal_charging] temp=28
+[  430.114244] smb347_charger: [smb347_config_thermal_charging] Bypass charger enable
+[  430.174529] stop_machine_cpu_stop smp=0
+[  430.174538] stop_machine_cpu_stop smp=3
+[  430.174546] stop_machine_cpu_stop smp=2
+[  430.174554] stop_machine_cpu_stop smp=1
+[  430.175504] CPU3: shutdown
+[  430.231524] CPU3: Booted secondary processor
+[  430.241254] Switched to NOHz mode on CPU #3
+[  431.071861] stop_machine_cpu_stop smp=0
+[  431.071869] stop_machine_cpu_stop smp=1
+[  431.071877] stop_machine_cpu_stop smp=3
+[  431.071884] stop_machine_cpu_stop smp=2
+[  431.072798] CPU3: shutdown
+[  431.101814] stop_machine_cpu_stop smp=0
+[  431.101821] stop_machine_cpu_stop smp=1
+[  431.101828] stop_machine_cpu_stop smp=2
+[  431.102610] CPU1: shutdown
+[  431.131463] CPU1: Booted secondary processor
+[  431.141210] Switched to NOHz mode on CPU #1
+[  431.191470] CPU3: Booted secondary processor
+[  431.201224] Switched to NOHz mode on CPU #3
+[  432.031903] stop_machine_cpu_stop smp=0
+[  432.031912] stop_machine_cpu_stop smp=2
+[  432.031919] stop_machine_cpu_stop smp=3
+[  432.031927] stop_machine_cpu_stop smp=1
+[  432.032918] CPU3: shutdown
+[  432.101877] CPU3: Booted secondary processor
+[  432.111243] Switched to NOHz mode on CPU #3
+[  432.391851] stop_machine_cpu_stop smp=0
+[  432.391859] stop_machine_cpu_stop smp=1
+[  432.391867] stop_machine_cpu_stop smp=2
+[  432.391875] stop_machine_cpu_stop smp=3
+[  432.392805] CPU3: shutdown
+[  432.451453] CPU3: Booted secondary processor
+[  432.461235] Switched to NOHz mode on CPU #3
+[  432.811846] stop_machine_cpu_stop smp=0
+[  432.811854] stop_machine_cpu_stop smp=1
+[  432.811861] stop_machine_cpu_stop smp=2
+[  432.811869] stop_machine_cpu_stop smp=3
+[  432.812787] CPU3: shutdown
+[  432.871480] CPU3: Booted secondary processor
+[  432.881225] Switched to NOHz mode on CPU #3
+[  433.234400] stop_machine_cpu_stop smp=0
+[  433.234411] stop_machine_cpu_stop smp=1
+[  433.234420] stop_machine_cpu_stop smp=2
+[  433.234429] stop_machine_cpu_stop smp=3
+[  433.235600] CPU3: shutdown
+[  433.351504] CPU3: Booted secondary processor
+[  433.361224] Switched to NOHz mode on CPU #3
+[  434.611858] stop_machine_cpu_stop smp=1
+[  434.611866] stop_machine_cpu_stop smp=0
+[  434.611873] stop_machine_cpu_stop smp=3
+[  434.611880] stop_machine_cpu_stop smp=2
+[  434.612809] CPU3: shutdown
+[  434.672293] stop_machine_cpu_stop smp=0
+[  434.672301] stop_machine_cpu_stop smp=1
+[  434.672308] stop_machine_cpu_stop smp=2
+[  434.673127] CPU2: shutdown
+[  434.731415] CPU2: Booted secondary processor
+[  434.741223] Switched to NOHz mode on CPU #2
+[  434.791449] CPU3: Booted secondary processor
+[  434.801248] Switched to NOHz mode on CPU #3
+[  435.031987] stop_machine_cpu_stop smp=0
+[  435.031996] stop_machine_cpu_stop smp=2
+[  435.032003] stop_machine_cpu_stop smp=3
+[  435.032010] stop_machine_cpu_stop smp=1
+[  435.032931] CPU3: shutdown
+[  435.101781] stop_machine_cpu_stop smp=1
+[  435.101788] stop_machine_cpu_stop smp=0
+[  435.101795] stop_machine_cpu_stop smp=2
+[  435.102790] CPU1: shutdown
+[  435.151428] CPU1: Booted secondary processor
+[  435.161235] Switched to NOHz mode on CPU #1
+[  435.211504] CPU3: Booted secondary processor
+[  435.221250] Switched to NOHz mode on CPU #3
+[  435.512193] stop_machine_cpu_stop smp=1
+[  435.512201] stop_machine_cpu_stop smp=2
+[  435.512207] stop_machine_cpu_stop smp=0
+[  435.512214] stop_machine_cpu_stop smp=3
+[  435.513131] CPU3: shutdown
+[  435.571458] CPU3: Booted secondary processor
+[  435.581240] Switched to NOHz mode on CPU #3
+[  435.692226] stop_machine_cpu_stop smp=0
+[  435.692234] stop_machine_cpu_stop smp=3
+[  435.692240] stop_machine_cpu_stop smp=1
+[  435.692246] stop_machine_cpu_stop smp=2
+[  435.693098] CPU3: shutdown
+[  435.751503] CPU3: Booted secondary processor
+[  435.761249] Switched to NOHz mode on CPU #3
+[  435.932222] stop_machine_cpu_stop smp=0
+[  435.932232] stop_machine_cpu_stop smp=3
+[  435.932241] stop_machine_cpu_stop smp=1
+[  435.932251] stop_machine_cpu_stop smp=2
+[  435.933355] CPU3: shutdown
+[  435.991447] CPU3: Booted secondary processor
+[  436.001247] Switched to NOHz mode on CPU #3
+[  436.102079] stop_machine_cpu_stop smp=1
+[  436.102087] stop_machine_cpu_stop smp=2
+[  436.102092] stop_machine_cpu_stop smp=3
+[  436.102098] stop_machine_cpu_stop smp=0
+[  436.102955] CPU3: shutdown
+[  436.121527] CPU3: Booted secondary processor
+[  436.131248] Switched to NOHz mode on CPU #3
+[  436.542230] stop_machine_cpu_stop smp=0
+[  436.542238] stop_machine_cpu_stop smp=1
+[  436.542244] stop_machine_cpu_stop smp=3
+[  436.542250] stop_machine_cpu_stop smp=2
+[  436.543100] CPU3: shutdown
+[  436.601444] CPU3: Booted secondary processor
+[  436.611237] Switched to NOHz mode on CPU #3
+[  436.782015] stop_machine_cpu_stop smp=0
+[  436.782027] stop_machine_cpu_stop smp=1
+[  436.782038] stop_machine_cpu_stop smp=2
+[  436.782047] stop_machine_cpu_stop smp=3
+[  436.783163] CPU3: shutdown
+[  436.842133] stop_machine_cpu_stop smp=0
+[  436.842141] stop_machine_cpu_stop smp=1
+[  436.842147] stop_machine_cpu_stop smp=2
+[  436.842955] CPU2: shutdown
+[  436.901453] CPU2: Booted secondary processor
+[  436.911221] Switched to NOHz mode on CPU #2
+[  436.961478] CPU3: Booted secondary processor
+[  436.971254] Switched to NOHz mode on CPU #3
+[  437.262306] stop_machine_cpu_stop smp=0
+[  437.262314] stop_machine_cpu_stop smp=2
+[  437.262320] stop_machine_cpu_stop smp=3
+[  437.262327] stop_machine_cpu_stop smp=1
+[  437.263252] CPU3: shutdown
+[  437.321452] CPU3: Booted secondary processor
+[  437.331256] Switched to NOHz mode on CPU #3
+[  438.948167] stop_machine_cpu_stop smp=0
+[  438.948176] stop_machine_cpu_stop smp=2
+[  438.948184] stop_machine_cpu_stop smp=1
+[  438.948191] stop_machine_cpu_stop smp=3
+[  438.949837] CPU3: shutdown
+[  439.011502] CPU3: Booted secondary processor
+[  439.021253] Switched to NOHz mode on CPU #3
+[  439.101768] stop_machine_cpu_stop smp=0
+[  439.101775] stop_machine_cpu_stop smp=3
+[  439.101780] stop_machine_cpu_stop smp=2
+[  439.101787] stop_machine_cpu_stop smp=1
+[  439.102544] CPU2: shutdown
+[  439.131941] CPU2: Booted secondary processor
+[  439.141252] Switched to NOHz mode on CPU #2
+[  439.492347] stop_machine_cpu_stop smp=1
+[  439.492355] stop_machine_cpu_stop smp=2
+[  439.492361] stop_machine_cpu_stop smp=3
+[  439.492367] stop_machine_cpu_stop smp=0
+[  439.493247] CPU3: shutdown
+[  439.611465] CPU3: Booted secondary processor
+[  439.621254] Switched to NOHz mode on CPU #3
+[  440.271956] stop_machine_cpu_stop smp=0
+[  440.271965] stop_machine_cpu_stop smp=2
+[  440.271972] stop_machine_cpu_stop smp=1
+[  440.271980] stop_machine_cpu_stop smp=3
+[  440.272958] CPU3: shutdown
+[  440.332222] stop_machine_cpu_stop smp=0
+[  440.332233] stop_machine_cpu_stop smp=1
+[  440.332241] stop_machine_cpu_stop smp=2
+[  440.333174] CPU2: shutdown
+[  440.391407] CPU2: Booted secondary processor
+[  440.401255] Switched to NOHz mode on CPU #2
+[  440.451776] CPU3: Booted secondary processor
+[  440.461229] Switched to NOHz mode on CPU #3
+[  441.112357] stop_machine_cpu_stop smp=0
+[  441.112366] stop_machine_cpu_stop smp=1
+[  441.112373] stop_machine_cpu_stop smp=2
+[  441.112382] stop_machine_cpu_stop smp=3
+[  441.113325] CPU3: shutdown
+[  441.232037] stop_machine_cpu_stop smp=0
+[  441.232046] stop_machine_cpu_stop smp=1
+[  441.232054] stop_machine_cpu_stop smp=2
+[  441.232916] CPU2: shutdown
+[  441.291465] CPU2: Booted secondary processor
+[  441.301249] Switched to NOHz mode on CPU #2
+[  441.351471] CPU3: Booted secondary processor
+[  441.361263] Switched to NOHz mode on CPU #3
+[  441.712330] stop_machine_cpu_stop smp=0
+[  441.712341] stop_machine_cpu_stop smp=2
+[  441.712351] stop_machine_cpu_stop smp=1
+[  441.712361] stop_machine_cpu_stop smp=3
+[  441.713479] CPU3: shutdown
+[  441.831501] CPU3: Booted secondary processor
+[  441.841253] Switched to NOHz mode on CPU #3
+[  442.012435] stop_machine_cpu_stop smp=0
+[  442.012444] stop_machine_cpu_stop smp=1
+[  442.012453] stop_machine_cpu_stop smp=3
+[  442.012461] stop_machine_cpu_stop smp=2
+[  442.013580] CPU3: shutdown
+[  442.072201] stop_machine_cpu_stop smp=0
+[  442.072210] stop_machine_cpu_stop smp=1
+[  442.072218] stop_machine_cpu_stop smp=2
+[  442.073180] CPU2: shutdown
+[  442.101811] CPU2: Booted secondary processor
+[  442.111220] Switched to NOHz mode on CPU #2
+[  442.191435] CPU3: Booted secondary processor
+[  442.201271] Switched to NOHz mode on CPU #3
+[  442.674091] stop_machine_cpu_stop smp=0
+[  442.674099] stop_machine_cpu_stop smp=2
+[  442.674106] stop_machine_cpu_stop smp=1
+[  442.674112] stop_machine_cpu_stop smp=3
+[  442.674939] CPU3: shutdown
+[  442.731507] CPU3: Booted secondary processor
+[  442.741257] Switched to NOHz mode on CPU #3
+[  443.391979] stop_machine_cpu_stop smp=0
+[  443.391988] stop_machine_cpu_stop smp=1
+[  443.391996] stop_machine_cpu_stop smp=3
+[  443.392005] stop_machine_cpu_stop smp=2
+[  443.393009] CPU3: shutdown
+[  443.511470] CPU3: Booted secondary processor
+[  443.521269] Switched to NOHz mode on CPU #3
+[  445.612456] stop_machine_cpu_stop smp=0
+[  445.612464] stop_machine_cpu_stop smp=3
+[  445.612472] stop_machine_cpu_stop smp=2
+[  445.612479] stop_machine_cpu_stop smp=1
+[  445.613379] CPU3: shutdown
+[  445.671586] CPU3: Booted secondary processor
+[  445.678441] tegra_pwm tegra_pwm.0: pwm_disable called on disabled PWM
+[  445.681249] Switched to NOHz mode on CPU #3
+[  445.695085] tegra_pwm tegra_pwm.0: pwm_disable called on disabled PWM
+[  445.714905] tegra_pwm tegra_pwm.0: pwm_disable called on disabled PWM
+[  445.729146] tegra_pwm tegra_pwm.0: pwm_disable called on disabled PWM
+[  445.735317] request_suspend_state: sleep (0->3) at 445734159002 (2018-05-10 05:44:33.782249000 UTC)
+[  445.735468] early_suspend: call handlers
+[  445.735551] [ektf3k]:[elan] elan_ktf3k_ts_suspend: enter
+[  445.736023] stop_drawing_early_suspended
+[  445.736173] tegra_pwm tegra_pwm.0: pwm_disable called on disabled PWM
+[  445.736262] grouper_panel_early_suspended
+[  445.736397] al3010_early_suspend+
+[  445.736851] al3010_early_suspend-
+[  445.736926] early_suspend: sync
+[  445.772060] active wake lock PowerManagerService.WakeLocks
+[  445.772144] active wake lock usb_config_wake_lock
+[  445.806470] dhd_set_suspend: Remove extra suspend setting
+[  445.830376] dhd_set_suspend: force extra Suspend setting
+[  445.838705] dhd_get_dtim_skip failed code -23
+[  445.840891] dhd_get_dtim_skip failed code -23
+[  445.847800] tegra-i2c tegra-i2c.2: I2c error status 0x00000008
+[  445.847923] tegra-i2c tegra-i2c.2: no acknowledge from address 0x2a
+[  445.847993] tegra-i2c tegra-i2c.2: Packet status 0x00010009
+[  445.849168] pn544_dev_write : i2c_master_send returned -121
+[  446.992350] stop_machine_cpu_stop smp=0
+[  446.992357] stop_machine_cpu_stop smp=3
+[  446.992364] stop_machine_cpu_stop smp=1
+[  446.992370] stop_machine_cpu_stop smp=2
+[  446.993212] CPU3: shutdown
+[  447.051770] CPU3: Booted secondary processor
+[  447.061248] Switched to NOHz mode on CPU #3
+[  447.101782] stop_machine_cpu_stop smp=0
+[  447.101789] stop_machine_cpu_stop smp=1
+[  447.101794] stop_machine_cpu_stop smp=2
+[  447.101800] stop_machine_cpu_stop smp=3
+[  447.102617] CPU2: shutdown
+[  447.171447] CPU2: Booted secondary processor
+[  447.181233] Switched to NOHz mode on CPU #2
+[  447.352420] stop_machine_cpu_stop smp=0
+[  447.352428] stop_machine_cpu_stop smp=1
+[  447.352434] stop_machine_cpu_stop smp=2
+[  447.352440] stop_machine_cpu_stop smp=3
+[  447.353257] CPU3: shutdown
+[  447.531444] CPU3: Booted secondary processor
+[  447.541215] Switched to NOHz mode on CPU #3
+[  447.951987] stop_machine_cpu_stop smp=1
+[  447.951996] stop_machine_cpu_stop smp=2
+[  447.952002] stop_machine_cpu_stop smp=0
+[  447.952010] stop_machine_cpu_stop smp=3
+[  447.952954] CPU3: shutdown
+[  448.011443] CPU3: Booted secondary processor
+[  448.021225] Switched to NOHz mode on CPU #3
+[  448.101843] stop_machine_cpu_stop smp=0
+[  448.101850] stop_machine_cpu_stop smp=3
+[  448.101856] stop_machine_cpu_stop smp=2
+[  448.101862] stop_machine_cpu_stop smp=1
+[  448.102640] CPU2: shutdown
+[  448.131460] CPU2: Booted secondary processor
+[  448.141244] Switched to NOHz mode on CPU #2
+[  448.492041] stop_machine_cpu_stop smp=1
+[  448.492049] stop_machine_cpu_stop smp=0
+[  448.492056] stop_machine_cpu_stop smp=2
+[  448.492064] stop_machine_cpu_stop smp=3
+[  448.492957] CPU3: shutdown
+[  448.551514] CPU3: Booted secondary processor
+[  448.561259] Switched to NOHz mode on CPU #3
+[  449.152737] stop_machine_cpu_stop smp=0
+[  449.152747] stop_machine_cpu_stop smp=2
+[  449.152755] stop_machine_cpu_stop smp=1
+[  449.152763] stop_machine_cpu_stop smp=3
+[  449.153817] CPU3: shutdown
+[  449.211441] CPU3: Booted secondary processor
+[  449.221218] Switched to NOHz mode on CPU #3
+[  449.572131] stop_machine_cpu_stop smp=0
+[  449.572140] stop_machine_cpu_stop smp=1
+[  449.572147] stop_machine_cpu_stop smp=2
+[  449.572155] stop_machine_cpu_stop smp=3
+[  449.573043] CPU3: shutdown
+[  449.692186] stop_machine_cpu_stop smp=0
+[  449.692194] stop_machine_cpu_stop smp=1
+[  449.692201] stop_machine_cpu_stop smp=2
+[  449.692938] CPU2: shutdown
+[  449.751437] CPU2: Booted secondary processor
+[  449.761224] Switched to NOHz mode on CPU #2
+[  449.821485] CPU3: Booted secondary processor
+[  449.831223] Switched to NOHz mode on CPU #3
+[  450.011915] stop_machine_cpu_stop smp=0
+[  450.011923] stop_machine_cpu_stop smp=1
+[  450.011930] stop_machine_cpu_stop smp=2
+[  450.011937] stop_machine_cpu_stop smp=3
+[  450.012836] CPU3: shutdown
+[  450.071455] CPU3: Booted secondary processor
+[  450.081254] Switched to NOHz mode on CPU #3
+[  450.101904] stop_machine_cpu_stop smp=0
+[  450.101911] stop_machine_cpu_stop smp=2
+[  450.101917] stop_machine_cpu_stop smp=3
+[  450.101923] stop_machine_cpu_stop smp=1
+[  450.102717] CPU1: shutdown
+[  450.131421] CPU1: Booted secondary processor
+[  450.141224] Switched to NOHz mode on CPU #1
+[  450.252481] stop_machine_cpu_stop smp=2
+[  450.252489] stop_machine_cpu_stop smp=3
+[  450.252496] stop_machine_cpu_stop smp=1
+[  450.252503] stop_machine_cpu_stop smp=0
+[  450.253409] CPU3: shutdown
+[  450.311517] CPU3: Booted secondary processor
+[  450.321250] Switched to NOHz mode on CPU #3
+[  450.492332] stop_machine_cpu_stop smp=0
+[  450.492340] stop_machine_cpu_stop smp=1
+[  450.492348] stop_machine_cpu_stop smp=3
+[  450.492355] stop_machine_cpu_stop smp=2
+[  450.493250] CPU3: shutdown
+[  450.551455] CPU3: Booted secondary processor
+[  450.561216] Switched to NOHz mode on CPU #3
+[  450.912803] stop_machine_cpu_stop smp=1
+[  450.912813] stop_machine_cpu_stop smp=2
+[  450.912823] stop_machine_cpu_stop smp=3
+[  450.912831] stop_machine_cpu_stop smp=0
+[  450.913962] CPU3: shutdown
+[  450.971783] stop_machine_cpu_stop smp=0
+[  450.971793] stop_machine_cpu_stop smp=1
+[  450.971802] stop_machine_cpu_stop smp=2
+[  450.972708] CPU2: shutdown
+[  451.091435] CPU2: Booted secondary processor
+[  451.101207] Switched to NOHz mode on CPU #2
+[  451.110975] stop_machine_cpu_stop smp=2
+[  451.110981] stop_machine_cpu_stop smp=0
+[  451.110987] stop_machine_cpu_stop smp=1
+[  451.112127] CPU2: shutdown
+[  451.113311] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu2/topology:  No such file or directory
+[  451.113507] ueventd: SELinux:  Could not read /sys/devices/system/cpu/cpu2/topology: No such file or directory.
+[  451.161693] stop_machine_cpu_stop smp=0
+[  451.161701] stop_machine_cpu_stop smp=1
+[  451.162725] CPU1: shutdown
+[  452.101486] CPU1: Booted secondary processor
+[  452.111223] Switched to NOHz mode on CPU #1
+[  452.122020] stop_machine_cpu_stop smp=0
+[  452.122029] stop_machine_cpu_stop smp=1
+[  452.122750] CPU1: shutdown
+[  452.131951] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/scaling_available_governors:  No such file or directory
+[  452.132436] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/scaling_setspeed:  No such file or directory
+[  452.132788] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/dvfs_test:  No such file or directory
+[  452.133138] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/policy_min_freq:  No such file or directory
+[  452.133484] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/policy_max_freq:  No such file or directory
+[  452.133833] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/scaling_available_frequencies:  No such file or directory
+[  452.134175] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/throttle:  No such file or directory
+[  452.134518] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/cpuinfo_cur_freq:  No such file or directory
+[  452.134863] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq:  No such file or directory
+[  452.135261] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu1/cpufreq/stats:  No such file or directory
+[  452.135490] ueventd: SELinux:  Could not read /sys/devices/system/cpu/cpu1/cpufreq/stats: No such file or directory.
+[  452.781642] CPU1: Booted secondary processor
+[  452.791205] Switched to NOHz mode on CPU #1
+[  452.841447] CPU2: Booted secondary processor
+[  452.841564] Switched to NOHz mode on CPU #2
+[  452.901516] CPU3: Booted secondary processor
+[  452.911234] Switched to NOHz mode on CPU #3
+[  453.091880] stop_machine_cpu_stop smp=0
+[  453.091888] stop_machine_cpu_stop smp=1
+[  453.091895] stop_machine_cpu_stop smp=3
+[  453.091902] stop_machine_cpu_stop smp=2
+[  453.092924] CPU3: shutdown
+[  453.101550] CPU3: Booted secondary processor
+[  453.111229] Switched to NOHz mode on CPU #3
+[  453.512685] stop_machine_cpu_stop smp=0
+[  453.512695] stop_machine_cpu_stop smp=1
+[  453.512705] stop_machine_cpu_stop smp=2
+[  453.512714] stop_machine_cpu_stop smp=3
+[  453.513814] CPU3: shutdown
+[  453.572419] stop_machine_cpu_stop smp=0
+[  453.572426] stop_machine_cpu_stop smp=1
+[  453.572433] stop_machine_cpu_stop smp=2
+[  453.573171] CPU2: shutdown
+[  453.631429] CPU2: Booted secondary processor
+[  453.641236] Switched to NOHz mode on CPU #2
+[  453.701461] CPU3: Booted secondary processor
+[  453.711239] Switched to NOHz mode on CPU #3
+[  454.101795] stop_machine_cpu_stop smp=3
+[  454.101802] stop_machine_cpu_stop smp=1
+[  454.101808] stop_machine_cpu_stop smp=0
+[  454.101814] stop_machine_cpu_stop smp=2
+[  454.103040] CPU3: shutdown
+[  454.121423] CPU3: Booted secondary processor
+[  454.131206] Switched to NOHz mode on CPU #3
+[  455.144131] stop_machine_cpu_stop smp=1
+[  455.144138] stop_machine_cpu_stop smp=0
+[  455.144146] stop_machine_cpu_stop smp=3
+[  455.144153] stop_machine_cpu_stop smp=2
+[  455.145046] CPU3: shutdown
+[  455.202102] stop_machine_cpu_stop smp=0
+[  455.202110] stop_machine_cpu_stop smp=1
+[  455.202116] stop_machine_cpu_stop smp=2
+[  455.202857] CPU2: shutdown
+[  455.261420] CPU2: Booted secondary processor
+[  455.271246] Switched to NOHz mode on CPU #2
+[  455.321581] CPU3: Booted secondary processor
+[  455.331241] Switched to NOHz mode on CPU #3
+[  455.981876] stop_machine_cpu_stop smp=0
+[  455.981885] stop_machine_cpu_stop smp=1
+[  455.981892] stop_machine_cpu_stop smp=3
+[  455.981900] stop_machine_cpu_stop smp=2
+[  455.982805] CPU3: shutdown
+[  456.042179] stop_machine_cpu_stop smp=0
+[  456.042188] stop_machine_cpu_stop smp=1
+[  456.042196] stop_machine_cpu_stop smp=2
+[  456.043020] CPU2: shutdown
+[  456.101466] CPU2: Booted secondary processor
+[  456.111201] Switched to NOHz mode on CPU #2
+[  456.161641] CPU3: Booted secondary processor
+[  456.171225] Switched to NOHz mode on CPU #3
+[  456.521874] stop_machine_cpu_stop smp=0
+[  456.521883] stop_machine_cpu_stop smp=3
+[  456.521891] stop_machine_cpu_stop smp=1
+[  456.521898] stop_machine_cpu_stop smp=2
+[  456.522780] CPU3: shutdown
+[  456.581832] stop_machine_cpu_stop smp=0
+[  456.581840] stop_machine_cpu_stop smp=1
+[  456.581847] stop_machine_cpu_stop smp=2
+[  456.582678] CPU2: shutdown
+[  456.641420] CPU2: Booted secondary processor
+[  456.651231] Switched to NOHz mode on CPU #2
+[  456.701457] CPU3: Booted secondary processor
+[  456.711252] Switched to NOHz mode on CPU #3
+[  456.941903] stop_machine_cpu_stop smp=0
+[  456.941912] stop_machine_cpu_stop smp=1
+[  456.941919] stop_machine_cpu_stop smp=2
+[  456.941927] stop_machine_cpu_stop smp=3
+[  456.942902] CPU3: shutdown
+[  457.001991] stop_machine_cpu_stop smp=0
+[  457.002001] stop_machine_cpu_stop smp=1
+[  457.002010] stop_machine_cpu_stop smp=2
+[  457.002909] CPU2: shutdown
+[  457.121414] CPU2: Booted secondary processor
+[  457.131243] Switched to NOHz mode on CPU #2
+[  457.181462] CPU3: Booted secondary processor
+[  457.191272] Switched to NOHz mode on CPU #3
+[  457.421851] stop_machine_cpu_stop smp=0
+[  457.421859] stop_machine_cpu_stop smp=1
+[  457.421867] stop_machine_cpu_stop smp=2
+[  457.421875] stop_machine_cpu_stop smp=3
+[  457.422751] CPU3: shutdown
+[  457.481477] CPU3: Booted secondary processor
+[  457.491224] Switched to NOHz mode on CPU #3
+[  457.781878] stop_machine_cpu_stop smp=0
+[  457.781886] stop_machine_cpu_stop smp=1
+[  457.781893] stop_machine_cpu_stop smp=3
+[  457.781901] stop_machine_cpu_stop smp=2
+[  457.782976] CPU3: shutdown
+[  457.901516] CPU3: Booted secondary processor
+[  457.911228] Switched to NOHz mode on CPU #3
+[  458.262159] stop_machine_cpu_stop smp=1
+[  458.262169] stop_machine_cpu_stop smp=2
+[  458.262176] stop_machine_cpu_stop smp=0
+[  458.262185] stop_machine_cpu_stop smp=3
+[  458.263229] CPU3: shutdown
+[  458.321994] stop_machine_cpu_stop smp=0
+[  458.322004] stop_machine_cpu_stop smp=2
+[  458.322013] stop_machine_cpu_stop smp=1
+[  458.322950] CPU2: shutdown
+[  458.381464] CPU2: Booted secondary processor
+[  458.391227] Switched to NOHz mode on CPU #2
+[  458.441481] CPU3: Booted secondary processor
+[  458.451247] Switched to NOHz mode on CPU #3
+[  458.682311] stop_machine_cpu_stop smp=0
+[  458.682318] stop_machine_cpu_stop smp=1
+[  458.682325] stop_machine_cpu_stop smp=3
+[  458.682331] stop_machine_cpu_stop smp=2
+[  458.683147] CPU3: shutdown
+[  458.742005] stop_machine_cpu_stop smp=0
+[  458.742015] stop_machine_cpu_stop smp=2
+[  458.742024] stop_machine_cpu_stop smp=1
+[  458.743002] CPU2: shutdown
+[  458.801470] CPU2: Booted secondary processor
+[  458.811210] Switched to NOHz mode on CPU #2
+[  458.861547] CPU3: Booted secondary processor
+[  458.871231] Switched to NOHz mode on CPU #3
+[  459.101794] stop_machine_cpu_stop smp=0
+[  459.101801] stop_machine_cpu_stop smp=1
+[  459.101808] stop_machine_cpu_stop smp=2
+[  459.101814] stop_machine_cpu_stop smp=3
+[  459.102578] CPU3: shutdown
+[  459.162042] CPU3: Booted secondary processor
+[  459.171237] Switched to NOHz mode on CPU #3
+[  459.581996] stop_machine_cpu_stop smp=1
+[  459.582004] stop_machine_cpu_stop smp=2
+[  459.582011] stop_machine_cpu_stop smp=3
+[  459.582019] stop_machine_cpu_stop smp=0
+[  459.582968] CPU3: shutdown
+[  459.641860] stop_machine_cpu_stop smp=0
+[  459.641870] stop_machine_cpu_stop smp=2
+[  459.641878] stop_machine_cpu_stop smp=1
+[  459.642791] CPU2: shutdown
+[  459.701449] CPU2: Booted secondary processor
+[  459.711203] Switched to NOHz mode on CPU #2
+[  459.761467] CPU3: Booted secondary processor
+[  459.771254] Switched to NOHz mode on CPU #3
+[  460.062245] stop_machine_cpu_stop smp=0
+[  460.062253] stop_machine_cpu_stop smp=2
+[  460.062260] stop_machine_cpu_stop smp=1
+[  460.062267] stop_machine_cpu_stop smp=3
+[  460.063159] CPU3: shutdown
+[  460.121441] CPU3: Booted secondary processor
+[  460.131214] Switched to NOHz mode on CPU #3
+[  460.482159] stop_machine_cpu_stop smp=0
+[  460.482170] stop_machine_cpu_stop smp=1
+[  460.482180] stop_machine_cpu_stop smp=3
+[  460.482189] stop_machine_cpu_stop smp=2
+[  460.483258] CPU3: shutdown
+[  460.541866] stop_machine_cpu_stop smp=0
+[  460.541875] stop_machine_cpu_stop smp=1
+[  460.541885] stop_machine_cpu_stop smp=2
+[  460.542789] CPU2: shutdown
+[  460.661421] CPU2: Booted secondary processor
+[  460.671240] Switched to NOHz mode on CPU #2
+[  460.721496] CPU3: Booted secondary processor
+[  460.731270] Switched to NOHz mode on CPU #3
+[  461.101960] stop_machine_cpu_stop smp=1
+[  461.101967] stop_machine_cpu_stop smp=3
+[  461.101974] stop_machine_cpu_stop smp=2
+[  461.101980] stop_machine_cpu_stop smp=0
+[  461.102783] CPU1: shutdown
+[  461.141797] CPU1: Booted secondary processor
+[  461.151237] Switched to NOHz mode on CPU #1
+[  461.154014] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
+[  461.162948] cfg80211: Calling CRDA for country: DE
+[  461.167721] dhd_set_suspend: force extra Suspend setting
+[  461.207082] WLDEV-ERROR) wldev_set_country : wldev_set_country: set country for AT as AT rev -1
+[  461.222615] dhd_set_suspend: force extra Suspend setting
+[  461.253008] 1: Broadcast SSID is ilegal for PNO setting
+[  461.253144] CFG80211-ERROR) wl_cfg80211_sched_scan_start : PNO setup failed!! ret=-1 
+[  461.341336] AP L2->L0
+[  461.353007] L0
+[  461.924606] stop_machine_cpu_stop smp=0
+[  461.924615] stop_machine_cpu_stop smp=3
+[  461.924622] stop_machine_cpu_stop smp=1
+[  461.924629] stop_machine_cpu_stop smp=2
+[  461.925542] CPU3: shutdown
+[  461.982195] stop_machine_cpu_stop smp=0
+[  461.982203] stop_machine_cpu_stop smp=1
+[  461.982211] stop_machine_cpu_stop smp=2
+[  461.983049] CPU2: shutdown
+[  462.101805] CPU2: Booted secondary processor
+[  462.111217] Switched to NOHz mode on CPU #2
+[  462.161516] CPU3: Booted secondary processor
+[  462.171264] Switched to NOHz mode on CPU #3
+[  462.342661] stop_machine_cpu_stop smp=0
+[  462.342670] stop_machine_cpu_stop smp=1
+[  462.342678] stop_machine_cpu_stop smp=2
+[  462.342685] stop_machine_cpu_stop smp=3
+[  462.343622] CPU3: shutdown
+[  462.402875] stop_machine_cpu_stop smp=0
+[  462.402885] stop_machine_cpu_stop smp=1
+[  462.402894] stop_machine_cpu_stop smp=2
+[  462.403907] CPU2: shutdown
+[  462.461442] CPU2: Booted secondary processor
+[  462.471228] Switched to NOHz mode on CPU #2
+[  462.521480] CPU3: Booted secondary processor
+[  462.531221] Switched to NOHz mode on CPU #3
+[  462.881834] stop_machine_cpu_stop smp=0
+[  462.881842] stop_machine_cpu_stop smp=1
+[  462.881849] stop_machine_cpu_stop smp=2
+[  462.881857] stop_machine_cpu_stop smp=3
+[  462.882825] CPU3: shutdown
+[  462.941538] CPU3: Booted secondary processor
+[  462.951264] Switched to NOHz mode on CPU #3
+[  463.102419] stop_machine_cpu_stop smp=0
+[  463.102426] stop_machine_cpu_stop smp=2
+[  463.102431] stop_machine_cpu_stop smp=3
+[  463.102437] stop_machine_cpu_stop smp=1
+[  463.103222] CPU2: shutdown
+[  463.121524] CPU2: Booted secondary processor
+[  463.131239] Switched to NOHz mode on CPU #2
+[  463.794047] init: avc:  granted  { set } for property=net.rmnet0.dns1 pid=179 uid=1001 gid=1001 scontext=u:r:rild:s0 tcontext=u:object_r:net_radio_prop:s0 tclass=property_service
+[  463.794831] init: avc:  granted  { set } for property=net.rmnet0.dns2 pid=179 uid=1001 gid=1001 scontext=u:r:rild:s0 tcontext=u:object_r:net_radio_prop:s0 tclass=property_service
+[  463.795388] init: avc:  granted  { set } for property=net.rmnet0.gw pid=179 uid=1001 gid=1001 scontext=u:r:rild:s0 tcontext=u:object_r:net_radio_prop:s0 tclass=property_service
+[  463.795885] init: avc:  granted  { set } for property=net.rmnet0.local-ip pid=179 uid=1001 gid=1001 scontext=u:r:rild:s0 tcontext=u:object_r:net_radio_prop:s0 tclass=property_service
+[  463.796439] init: avc:  granted  { set } for property=net.rmnet0.remote-ip pid=179 uid=1001 gid=1001 scontext=u:r:rild:s0 tcontext=u:object_r:net_radio_prop:s0 tclass=property_service
+[  465.161933] stop_machine_cpu_stop smp=0
+[  465.161941] stop_machine_cpu_stop smp=3
+[  465.161948] stop_machine_cpu_stop smp=1
+[  465.161956] stop_machine_cpu_stop smp=2
+[  465.162852] CPU3: shutdown
+[  465.221440] CPU3: Booted secondary processor
+[  465.231247] Switched to NOHz mode on CPU #3
+[  465.282286] stop_machine_cpu_stop smp=1
+[  465.282293] stop_machine_cpu_stop smp=0
+[  465.282299] stop_machine_cpu_stop smp=3
+[  465.282306] stop_machine_cpu_stop smp=2
+[  465.283157] CPU3: shutdown
+[  465.341449] CPU3: Booted secondary processor
+[  465.351244] Switched to NOHz mode on CPU #3
+[  465.641873] stop_machine_cpu_stop smp=0
+[  465.641882] stop_machine_cpu_stop smp=3
+[  465.641889] stop_machine_cpu_stop smp=1
+[  465.641898] stop_machine_cpu_stop smp=2
+[  465.642796] CPU3: shutdown
+[  465.701916] stop_machine_cpu_stop smp=0
+[  465.701925] stop_machine_cpu_stop smp=1
+[  465.701933] stop_machine_cpu_stop smp=2
+[  465.702771] CPU2: shutdown
+[  465.764613] stop_machine_cpu_stop smp=0
+[  465.764621] stop_machine_cpu_stop smp=1
+[  465.765284] CPU1: shutdown
+[  465.821412] CPU1: Booted secondary processor
+[  465.831212] Switched to NOHz mode on CPU #1
+[  465.881474] CPU2: Booted secondary processor
+[  465.891245] Switched to NOHz mode on CPU #2
+[  465.941532] CPU3: Booted secondary processor
+[  465.951220] Switched to NOHz mode on CPU #3
+[  466.102034] stop_machine_cpu_stop smp=0
+[  466.102041] stop_machine_cpu_stop smp=1
+[  466.102047] stop_machine_cpu_stop smp=3
+[  466.102054] stop_machine_cpu_stop smp=2
+[  466.102886] CPU1: shutdown
+[  466.181451] CPU1: Booted secondary processor
+[  466.191223] Switched to NOHz mode on CPU #1
+[  466.252595] 1: Broadcast SSID is ilegal for PNO setting
+[  466.252670] CFG80211-ERROR) wl_cfg80211_sched_scan_start : PNO setup failed!! ret=-1 
+[  466.661936] stop_machine_cpu_stop smp=0
+[  466.661944] stop_machine_cpu_stop smp=1
+[  466.661952] stop_machine_cpu_stop smp=2
+[  466.661959] stop_machine_cpu_stop smp=3
+[  466.662883] CPU3: shutdown
+[  466.781953] CPU3: Booted secondary processor
+[  466.791268] Switched to NOHz mode on CPU #3
+[  466.961957] stop_machine_cpu_stop smp=0
+[  466.961965] stop_machine_cpu_stop smp=1
+[  466.961972] stop_machine_cpu_stop smp=3
+[  466.961980] stop_machine_cpu_stop smp=2
+[  466.962937] CPU3: shutdown
+[  467.001408] usb_net_raw_ip_rx_urb_comp: rx urb d5f45d00 - status -2
+[  467.002885] usb_net_raw_ip_rx_urb_comp: rx urb d5f45e80 - status -2
+[  467.008775] L2
+[  467.022071] stop_machine_cpu_stop smp=0
+[  467.022080] stop_machine_cpu_stop smp=1
+[  467.022088] stop_machine_cpu_stop smp=2
+[  467.022931] CPU2: shutdown
+[  467.081430] CPU2: Booted secondary processor
+[  467.091250] Switched to NOHz mode on CPU #2
+[  467.101496] CPU3: Booted secondary processor
+[  467.111217] Switched to NOHz mode on CPU #3
+[  467.442522] stop_machine_cpu_stop smp=0
+[  467.442532] stop_machine_cpu_stop smp=1
+[  467.442543] stop_machine_cpu_stop smp=2
+[  467.442552] stop_machine_cpu_stop smp=3
+[  467.443643] CPU3: shutdown
+[  467.501425] CPU3: Booted secondary processor
+[  467.511241] Switched to NOHz mode on CPU #3
+[  467.862207] stop_machine_cpu_stop smp=0
+[  467.862215] stop_machine_cpu_stop smp=1
+[  467.862222] stop_machine_cpu_stop smp=2
+[  467.862229] stop_machine_cpu_stop smp=3
+[  467.863193] CPU3: shutdown
+[  467.981527] CPU3: Booted secondary processor
+[  467.991219] Switched to NOHz mode on CPU #3
+[  468.102014] stop_machine_cpu_stop smp=0
+[  468.102021] stop_machine_cpu_stop smp=1
+[  468.102026] stop_machine_cpu_stop smp=3
+[  468.102032] stop_machine_cpu_stop smp=2
+[  468.102807] CPU2: shutdown
+[  468.161458] CPU2: Booted secondary processor
+[  468.171261] Switched to NOHz mode on CPU #2
+[  468.702437] stop_machine_cpu_stop smp=0
+[  468.702448] stop_machine_cpu_stop smp=1
+[  468.702458] stop_machine_cpu_stop smp=3
+[  468.702468] stop_machine_cpu_stop smp=2
+[  468.703514] CPU3: shutdown
+[  468.761974] stop_machine_cpu_stop smp=0
+[  468.761983] stop_machine_cpu_stop smp=2
+[  468.761992] stop_machine_cpu_stop smp=1
+[  468.762905] CPU2: shutdown
+[  468.881413] CPU2: Booted secondary processor
+[  468.891235] Switched to NOHz mode on CPU #2
+[  468.941496] CPU3: Booted secondary processor
+[  468.951233] Switched to NOHz mode on CPU #3
+[  469.101918] stop_machine_cpu_stop smp=1
+[  469.101924] stop_machine_cpu_stop smp=2
+[  469.101930] stop_machine_cpu_stop smp=0
+[  469.101936] stop_machine_cpu_stop smp=3
+[  469.102748] CPU1: shutdown
+[  469.121487] CPU1: Booted secondary processor
+[  469.131248] Switched to NOHz mode on CPU #1
+[  469.140288] CP L2->L0
+[  469.172095] L0
+[  469.242154] stop_machine_cpu_stop smp=0
+[  469.242161] stop_machine_cpu_stop smp=3
+[  469.242167] stop_machine_cpu_stop smp=1
+[  469.242174] stop_machine_cpu_stop smp=2
+[  469.242972] CPU3: shutdown
+[  469.301512] CPU3: Booted secondary processor
+[  469.311243] Switched to NOHz mode on CPU #3
+[  469.661868] stop_machine_cpu_stop smp=0
+[  469.661876] stop_machine_cpu_stop smp=1
+[  469.661884] stop_machine_cpu_stop smp=3
+[  469.661892] stop_machine_cpu_stop smp=2
+[  469.662823] CPU3: shutdown
+[  469.721506] CPU3: Booted secondary processor
+[  469.731231] Switched to NOHz mode on CPU #3
+[  470.022004] stop_machine_cpu_stop smp=1
+[  470.022012] stop_machine_cpu_stop smp=0
+[  470.022020] stop_machine_cpu_stop smp=2
+[  470.022027] stop_machine_cpu_stop smp=3
+[  470.022934] CPU3: shutdown
+[  470.081457] CPU3: Booted secondary processor
+[  470.091240] Switched to NOHz mode on CPU #3
+[  470.442057] stop_machine_cpu_stop smp=0
+[  470.442066] stop_machine_cpu_stop smp=2
+[  470.442073] stop_machine_cpu_stop smp=1
+[  470.442080] stop_machine_cpu_stop smp=3
+[  470.442984] CPU3: shutdown
+[  470.501872] stop_machine_cpu_stop smp=0
+[  470.501880] stop_machine_cpu_stop smp=1
+[  470.501888] stop_machine_cpu_stop smp=2
+[  470.502726] CPU2: shutdown
+[  470.562147] stop_machine_cpu_stop smp=0
+[  470.562157] stop_machine_cpu_stop smp=1
+[  470.563018] CPU1: shutdown
+[  470.621406] CPU1: Booted secondary processor
+[  470.640452] Switched to NOHz mode on CPU #1
+[  470.681423] CPU2: Booted secondary processor
+[  470.691239] Switched to NOHz mode on CPU #2
+[  470.741475] CPU3: Booted secondary processor
+[  470.751257] Switched to NOHz mode on CPU #3
+[  470.922609] stop_machine_cpu_stop smp=0
+[  470.922618] stop_machine_cpu_stop smp=1
+[  470.922625] stop_machine_cpu_stop smp=2
+[  470.922632] stop_machine_cpu_stop smp=3
+[  470.923536] CPU3: shutdown
+[  471.041814] stop_machine_cpu_stop smp=0
+[  471.041822] stop_machine_cpu_stop smp=1
+[  471.041830] stop_machine_cpu_stop smp=2
+[  471.042672] CPU2: shutdown
+[  471.221447] CPU2: Booted secondary processor
+[  471.231248] Switched to NOHz mode on CPU #2
+[  471.257909] 1: Broadcast SSID is ilegal for PNO setting
+[  471.258050] CFG80211-ERROR) wl_cfg80211_sched_scan_start : PNO setup failed!! ret=-1 
+[  471.281538] CPU3: Booted secondary processor
+[  471.291276] Switched to NOHz mode on CPU #3
+[  471.411957] stop_machine_cpu_stop smp=0
+[  471.411966] stop_machine_cpu_stop smp=1
+[  471.411974] stop_machine_cpu_stop smp=3
+[  471.411981] stop_machine_cpu_stop smp=2
+[  471.412952] CPU3: shutdown
+[  471.531441] CPU3: Booted secondary processor
+[  471.541236] Switched to NOHz mode on CPU #3
+[  472.102231] stop_machine_cpu_stop smp=1
+[  472.102238] stop_machine_cpu_stop smp=2
+[  472.102244] stop_machine_cpu_stop smp=0
+[  472.102249] stop_machine_cpu_stop smp=3
+[  472.103048] CPU1: shutdown
+[  472.131570] CPU1: Booted secondary processor
+[  472.141268] Switched to NOHz mode on CPU #1
+[  472.251931] stop_machine_cpu_stop smp=0
+[  472.251940] stop_machine_cpu_stop smp=1
+[  472.251947] stop_machine_cpu_stop smp=2
+[  472.251955] stop_machine_cpu_stop smp=3
+[  472.252855] CPU3: shutdown
+[  472.371802] CPU3: Booted secondary processor
+[  472.381237] Switched to NOHz mode on CPU #3
+[  472.491888] stop_machine_cpu_stop smp=0
+[  472.491896] stop_machine_cpu_stop smp=3
+[  472.491904] stop_machine_cpu_stop smp=1
+[  472.491912] stop_machine_cpu_stop smp=2
+[  472.492869] CPU3: shutdown
+[  472.551476] CPU3: Booted secondary processor
+[  472.561244] Switched to NOHz mode on CPU #3
+[  472.732773] stop_machine_cpu_stop smp=0
+[  472.732783] stop_machine_cpu_stop smp=1
+[  472.732793] stop_machine_cpu_stop smp=2
+[  472.732801] stop_machine_cpu_stop smp=3
+[  472.733882] CPU3: shutdown
+[  472.791975] stop_machine_cpu_stop smp=0
+[  472.791985] stop_machine_cpu_stop smp=2
+[  472.791994] stop_machine_cpu_stop smp=1
+[  472.792894] CPU2: shutdown
+[  472.911427] CPU2: Booted secondary processor
+[  472.921231] Switched to NOHz mode on CPU #2
+[  472.971973] CPU3: Booted secondary processor
+[  472.981245] Switched to NOHz mode on CPU #3
+[  473.101989] stop_machine_cpu_stop smp=0
+[  473.101996] stop_machine_cpu_stop smp=1
+[  473.102001] stop_machine_cpu_stop smp=3
+[  473.102007] stop_machine_cpu_stop smp=2
+[  473.102802] CPU1: shutdown
+[  473.151853] usb_net_raw_ip_rx_urb_comp: rx urb d5f45d00 - status -2
+[  473.152501] usb_net_raw_ip_rx_urb_comp: rx urb d5f45e80 - status -2
+[  473.152708] stop_machine_cpu_stop smp=0
+[  473.152717] stop_machine_cpu_stop smp=2
+[  473.152727] stop_machine_cpu_stop smp=3
+[  473.153706] CPU3: shutdown
+[  473.159465] L2
+[  473.213390] stop_machine_cpu_stop smp=0
+[  473.213397] stop_machine_cpu_stop smp=2
+[  473.214087] CPU2: shutdown
+[  473.271399] CPU1: Booted secondary processor
+[  473.281208] Switched to NOHz mode on CPU #1
+[  473.331472] CPU2: Booted secondary processor
+[  473.341207] Switched to NOHz mode on CPU #2
+[  473.391445] CPU3: Booted secondary processor
+[  473.401221] Switched to NOHz mode on CPU #3
+[  473.632161] stop_machine_cpu_stop smp=0
+[  473.632170] stop_machine_cpu_stop smp=3
+[  473.632178] stop_machine_cpu_stop smp=1
+[  473.632185] stop_machine_cpu_stop smp=2
+[  473.633072] CPU3: shutdown
+[  473.692258] stop_machine_cpu_stop smp=0
+[  473.692266] stop_machine_cpu_stop smp=2
+[  473.692273] stop_machine_cpu_stop smp=1
+[  473.693008] CPU2: shutdown
+[  473.751428] CPU2: Booted secondary processor
+[  473.761239] Switched to NOHz mode on CPU #2
+[  473.811498] CPU3: Booted secondary processor
+[  473.821219] Switched to NOHz mode on CPU #3
+[  474.052600] stop_machine_cpu_stop smp=0
+[  474.052610] stop_machine_cpu_stop smp=3
+[  474.052619] stop_machine_cpu_stop smp=1
+[  474.052627] stop_machine_cpu_stop smp=2
+[  474.053661] CPU3: shutdown
+[  474.111840] stop_machine_cpu_stop smp=0
+[  474.111849] stop_machine_cpu_stop smp=1
+[  474.111857] stop_machine_cpu_stop smp=2
+[  474.112677] CPU2: shutdown
+[  474.172088] stop_machine_cpu_stop smp=0
+[  474.172099] stop_machine_cpu_stop smp=1
+[  474.173012] CPU1: shutdown
+[  474.291391] CPU1: Booted secondary processor
+[  474.301209] Switched to NOHz mode on CPU #1
+[  474.361428] CPU2: Booted secondary processor
+[  474.371226] Switched to NOHz mode on CPU #2
+[  474.431435] CPU3: Booted secondary processor
+[  474.441209] Switched to NOHz mode on CPU #3
+[  474.671737] stop_machine_cpu_stop smp=0
+[  474.671745] stop_machine_cpu_stop smp=1
+[  474.671753] stop_machine_cpu_stop smp=3
+[  474.671760] stop_machine_cpu_stop smp=2
+[  474.672703] CPU3: shutdown
+[  474.791447] CPU3: Booted secondary processor
+[  474.801241] Switched to NOHz mode on CPU #3
+[  475.031978] stop_machine_cpu_stop smp=0
+[  475.031986] stop_machine_cpu_stop smp=2
+[  475.031994] stop_machine_cpu_stop smp=3
+[  475.032001] stop_machine_cpu_stop smp=1
+[  475.032888] CPU3: shutdown
+[  475.091433] CPU3: Booted secondary processor
+[  475.101225] Switched to NOHz mode on CPU #3
+[  475.452030] stop_machine_cpu_stop smp=0
+[  475.452039] stop_machine_cpu_stop smp=1
+[  475.452046] stop_machine_cpu_stop smp=3
+[  475.452054] stop_machine_cpu_stop smp=2
+[  475.452946] CPU3: shutdown
+[  475.511764] stop_machine_cpu_stop smp=0
+[  475.511773] stop_machine_cpu_stop smp=1
+[  475.511780] stop_machine_cpu_stop smp=2
+[  475.512601] CPU2: shutdown
+[  475.572236] stop_machine_cpu_stop smp=0
+[  475.572245] stop_machine_cpu_stop smp=1
+[  475.573008] CPU1: shutdown
+[  475.631389] CPU1: Booted secondary processor
